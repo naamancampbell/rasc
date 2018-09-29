@@ -79,9 +79,6 @@ for line in rasc_file:
         continue
     scene_match = re.search(r'^\((\d+:\d+)\) (.*)', line)
     if scene_match:
-        # print('Rasc dict: {}'.format(rasc_dict))
-        # print('Track count: {}'.format(len(rasc_dict['seasons'][season_index][season_title][episode_index][episode_title])))
-        # print('Track index: {}'.format(track_index))
         rasc_dict['seasons'][season_index][season_title][episode_index]\
             [episode_title][track_index]['time'] = scene_match.group(1)
         rasc_dict['seasons'][season_index][season_title][episode_index]\
