@@ -89,5 +89,5 @@ for line in rasc_file:
         'Line did not match expected format: {}'.format(line), file=sys.stderr)
     sys.exit(1)
 
-print(json.dumps(rasc_dict))
+print(json.dumps(rasc_dict, indent=2))
 rasc_file.close()

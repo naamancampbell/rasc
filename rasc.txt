@@ -44,9 +44,9 @@ Title card.
 Symphony No. 6 in F Major, Op. 68 “Pastorale” by Ludwig van Beethoven.
 (13:00) Plays as morning is breaking.
 Scheherezade by Nikolai Rimsky-Korsakov. (2nd Movement)
-(00:00) (“Now just relax and don’t worry about a thing.”)
+(13:42) (“Now just relax and don’t worry about a thing.”)
 Symphony No. 6 in F Major, Op. 68 “Pastorale” by Ludwig van Beethoven.
-(00:00) Plays as morning is breaking.
+(20:55) Plays as Ren rises up from bed.
 
 Space Madness
 New World Symphony by Antonin Dvorak. (1st Movement)
@@ -121,10 +121,6 @@ Hungarian Dances (no. 5) by Johannes Brahms.
 (23:10) Plays when the lizard Ren walks.
 Nutcracker, The - Waltz of the Flowers by Pyotr Ilyich Tchaikovsky.
 [Log for Girls commercial] (24:23) Plays when Log for Girls is shown.
-In the Hall of the Mountain King by Edvard Grieg.
-[short] (00:00) Plays when the curmudgeon appears.
-Peter and the Wolf (“Cat” theme) by Sergei Prokofiev.
-[short] (00:00) Plays when Wilbur Cobb is on-screen.
 
 Black Hole
 Barber of Seville, The by Gioacchino Rossini.
@@ -220,7 +216,7 @@ Big House Blues
 Hallelujah Chorus by George Frideric Handel.
 (16:43) Plays when the sun is shining.
 Polovtsian Dances (from Prince Igor) by Alexander Borodin.
-(20:00) Plays when Ren tries to kiss Stimpy.
+(20:32) Plays when Stimpy waves goodbye to Ren.
 Polovtsian Dances (from Prince Igor) by Alexander Borodin.
 (20:34) Plays when Stimpy waves goodbye to Ren.
 Nutcracker, The - Waltz of the Flowers by Pyotr Ilyich Tchaikovsky.
@@ -269,47 +265,47 @@ Stimpy’s Fan Club
 Nutcracker, The - Dance of the Sugar Plum Fairy by Pyotr Ilyich Tchaikovsky.
 (6:32) Plays when Ren reads the second fan letter.
 Pomp and Circumstance by Edward Elgar.
- (10:25) Plays when Ren vows to do better as president.
+(10:25) Plays when Ren vows to do better as president.
 Carnival of the Animals ("Fossils") by Camille Saint-Saens.
 (18:45) Plays when there's a letter for Ren.
  
 The Great Outdoors
 Nutcracker, The - Overture by Pyotr Ilyich Tchaikovsky.
-(00:00) Plays when Ren and Stimpy are at the lake.
+(02:58) Plays when Ren and Stimpy are at the lake.
 In the Hall of the Mountain King by Edvard Grieg.
-(00:00) Plays when the bearded man goes skinnydipping with Ren and Stimpy, as well as the ending of the episode.
+(04:50) Plays when the bearded man goes skinnydipping with Ren and Stimpy.
 Spring Song by Felix Mendelssohn.
-(00:00) Plays when a charred Ren punches Stimpy.
+(07:37) Plays when a charred Ren punches Stimpy.
 Flight of the Bumblebee, The by Nikolai Rimsky-Korsakov.
-(00:00) Plays when a mosquito sucks Ren's blood.
+(08:34) Plays when a mosquito sucks Ren's blood.
 Morning From Peer Gynt Suite No. 1 by Edvard Grieg.
-(00:00) Plays the next morning, after Ren has been bitten by tons of mosquitos.
+(09:11) Plays the next morning, after Ren has been bitten by tons of mosquitos.
 Pizzicati (from Sylvia) by Leo Delibes.
-(00:00) Plays when Ren is about to drink from the lake.
+(09:56) Plays when Ren is about to drink from the lake.
 Night on Bald Mountain by Modest Mussorgsky.	
-(00:00) Plays when Ren turns into a beaver.
+(10:46) Plays when Ren turns into a beaver.
 In the Hall of the Mountain King by Edvard Grieg.
-(00:00) Plays at the ending of the episode.
+(11:16) Plays at the ending of the episode.
 
 The Cat That Laid the Golden Hairball
 Coppelia Ballet Suite Act 1 No 1 by Leo Delibes.
-(00:00) Plays when Ren is angry about all the hairballs in the house.
+(12:20) Plays when Ren is angry about all the hairballs in the house.
 Danse Macabre by Camille Saint-Saens.
-(00:00) Plays when Ren says, "They're vile, they're stinky, but I love them!".
+(13:21) Plays when Ren says, "They're vile, they're stinky, but I love them!".
 Nutcracker, The - Overture by Pyotr Ilyich Tchaikovsky.
-(00:00) Plays when Ren praises Stimpy for his hairballs.
+(13:34) Plays when Ren praises Stimpy for his hairballs.
 Danse Macabre by Camille Saint-Saens.
-(00:00) Plays when Stimpy throws up on Ren.
+(13:48) Plays when Stimpy throws up on Ren.
 Sabre Dance by Aram Khachaturian.
-(00:00) Plays during the third hairball output montage.
+(15:28) Plays during the third hairball output montage.
 Barber of Seville, The by Gioacchino Rossini.
-(00:00) Plays when Stimpy licks Bubba's arm.
+(17:05) Plays when Stimpy licks Bubba's arm.
 String Quintet in E, Op. 11, No. 5 ("Minuet" section) by Luigi Boccherini.
-(00:00) Plays when Stimpy licks Bubba's hair off his back.
+(17:33) Plays when Stimpy licks Bubba's hair off his back.
 Carnival of the Animals ("Aquarium") by Camille Saint-Saens.
-(00:00) Plays when Bubba is walking around inside Stimpy.
+(20:10) Plays when Bubba is walking around inside Stimpy.
 Symphony No. 6 (Pathetique) by Pyotr Ilyich Tchaikovsky. (4th Movement)
-(00:00) Plays when Stimpy is about to "die". 
+(20:53) Plays when Stimpy is about to "die". 
 
 A Visit to Anthony
 Song of the Volga Boat Men by Igor Tuhmanov.
@@ -327,7 +323,7 @@ Symphonie Fantastique by Hector Berlioz. (Movement 4)
 Carnival of the Animals ("Swan") by Camille Saint-Saens.
 (14:49) Plays when Anthony's dad lays a hurt Anthony into bed.
 Can-Can (from "Orpheus in the Underworld") by Jacques Offenbach.
-(00:00) Plays when Anthony sits up in bed and shrugs his shoulders.
+(15:22) Plays when Anthony sits up in bed and shrugs his shoulders.
 
 The Royal Canadian Kilted Yaksmen
 Carnival of the Animals ("Aquarium") by Camille Saint-Saens.
