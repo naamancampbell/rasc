@@ -89,5 +89,7 @@ for line in rasc_file:
         'Line did not match expected format: {}'.format(line), file=sys.stderr)
     sys.exit(1)
 
-print(json.dumps(rasc_dict, indent=2))
+rasc_json = os.path.join(root_dir, 'rasc.json')
+with open(rasc_json, 'w') as json_file:
+    json.dump(rasc_dict, json_file, indent=2)
 rasc_file.close()
