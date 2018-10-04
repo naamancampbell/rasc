@@ -1,0 +1,1089 @@
+{
+  "seasons": [
+    {
+      "Season 1": [
+        {
+          "Stimpy's Big Day": [
+            {
+              "title": "Light Cavalry Overture",
+              "artist": "Franz von Suppe",
+              "time": "00:00",
+              "scene": "Title card."
+            },
+            {
+              "title": "Largo Op.28 E-Minor",
+              "artist": "Frederic Chopin",
+              "time": "07:00",
+              "scene": "Plays in the morning when Ren says, \"Eh, listen, Stimpy, I...\""
+            }
+          ]
+        },
+        {
+          "The Big Shot": [
+            {
+              "title": "Nutcracker, The - Waltz of the Flowers",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "time": "17:00",
+              "scene": "Plays when Ren turns off the light."
+            },
+            {
+              "title": "Spring Song",
+              "artist": "Felix Mendelssohn",
+              "time": "18:00",
+              "scene": "Plays when Ren says he'll watch some TV."
+            },
+            {
+              "title": "Romeo and Juliet Fantasy Overture",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "time": "20:36",
+              "scene": "Plays when Stimpy returns home."
+            }
+          ]
+        },
+        {
+          "Robin Hoek": [
+            {
+              "title": "Four Seasons, The",
+              "movement": "(\"Allegro\" Movement) (Spring)",
+              "artist": "Antonio Vivaldi",
+              "time": "00:00",
+              "scene": "Title card."
+            },
+            {
+              "title": "New World Symphony",
+              "movement": "(2nd Movement)",
+              "artist": "Antonin Dvorak",
+              "time": "2:00",
+              "scene": "Plays when Ren and Stimpy are praying."
+            },
+            {
+              "title": "Pizzicati",
+              "notes": "(from Sylvia)",
+              "artist": "Leo Delibes",
+              "time": "2:00",
+              "scene": "Plays when Ren buttons Stimpy."
+            },
+            {
+              "title": "Brahms's Lullaby",
+              "artist": "Johannes Brahms",
+              "time": "3:00",
+              "scene": "Plays when Stimpy asks if Ren will read him a bedtime story."
+            },
+            {
+              "title": "Nutcracker, The - Waltz of the Flowers",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "time": "4:00",
+              "scene": "Plays when Stimpy starts reading."
+            },
+            {
+              "title": "Concerto Grosso in A Minor, Op.3, No. 8 (RV522)",
+              "movement": "(1st Movement)",
+              "artist": "Antonio Vivaldi",
+              "time": "5:37",
+              "scene": "Plays when Friar Chuck is shown."
+            },
+            {
+              "title": "Tritsch-Tratsch-Polka",
+              "artist": "Johann Strauss II",
+              "time": "6:00",
+              "scene": "Plays when Stimpy runs towards the castle, as well as when he runs back to the village."
+            },
+            {
+              "title": "Badinerie",
+              "artist": "Johann Sebastian Bach",
+              "time": "6:00",
+              "scene": "Plays when Stimpy says, \"Robin Hoek and his men were robbers.\""
+            },
+            {
+              "title": "Romeo and Juliet Fantasy Overture",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "time": "9:57",
+              "scene": "Plays when Ren climbs Stimpy's nose hair."
+            },
+            {
+              "title": "Poet and Peasant Overture",
+              "artist": "Franz von Suppe",
+              "time": "10:00",
+              "scene": "Plays during the duel."
+            },
+            {
+              "title": "Song of the Volga Boatmen",
+              "artist": "Igor Tuhmanov",
+              "time": "11:00",
+              "scene": "Plays right before Ren wakes up from the dream."
+            }
+          ]
+        },
+        {
+          "Nurse Stimpy": [
+            {
+              "title": "Nutcracker, The - Russian Dance",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "time": "00:00",
+              "scene": "Title card."
+            },
+            {
+              "title": "Symphony No. 6 in F Major, Op. 68 \u201cPastorale\u201d",
+              "artist": "Ludwig van Beethoven",
+              "time": "13:00",
+              "scene": "Plays as morning is breaking."
+            },
+            {
+              "title": "Scheherezade",
+              "movement": "(2nd Movement)",
+              "artist": "Nikolai Rimsky-Korsakov",
+              "time": "13:42",
+              "scene": "(\u201cNow just relax and don\u2019t worry about a thing.\u201d)"
+            },
+            {
+              "title": "Symphony No. 6 in F Major, Op. 68 \u201cPastorale\u201d",
+              "artist": "Ludwig van Beethoven",
+              "time": "20:55",
+              "scene": "Plays as Ren rises up from bed."
+            }
+          ]
+        },
+        {
+          "Space Madness": [
+            {
+              "title": "New World Symphony",
+              "movement": "(1st Movement)",
+              "artist": "Antonin Dvorak",
+              "time": "00:00",
+              "scene": "Title card."
+            },
+            {
+              "title": "Thieving Magpie, The",
+              "artist": "Gioachino Rossini",
+              "time": "5:00",
+              "scene": "Plays at the start of Ren's bath."
+            },
+            {
+              "title": "Night on Bald Mountain",
+              "artist": "Modest Mussorgsky",
+              "time": "10:03",
+              "scene": "Plays when Ren describes his job to Stimpy."
+            }
+          ]
+        },
+        {
+          "The Boy Who Cried Rat": [
+            {
+              "title": "Poet and Peasant Overture",
+              "artist": "Franz von Suppe",
+              "time": "19:29",
+              "scene": "Plays when Stimpy is shocked after Mrs. Pipe says he can chew up Ren."
+            },
+            {
+              "title": "Nutcracker, The - Dance of the Sugar Plum Fairy",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "segment": "Yak Shaving Day commercial",
+              "time": "22:54",
+              "scene": "Plays when the yak is in the bathroom."
+            }
+          ]
+        },
+        {
+          "Fire Dogs": [
+            {
+              "title": "Barber of Seville, The",
+              "artist": "Gioachino Rossini",
+              "segment": "Ask Dr. Stupid",
+              "time": "00:00",
+              "scene": "Plays throughout."
+            },
+            {
+              "title": "Piano Concerto No. 21",
+              "notes": "(Elvira Madigan)",
+              "artist": "Wolfgang Amadeus Mozart",
+              "time": "2:40",
+              "scene": "Plays when Ren eats Gritty Kitty Litter."
+            },
+            {
+              "title": "Tritsch-Tratsch-Polka",
+              "artist": "Johann Strauss II",
+              "time": "5:08",
+              "scene": "Plays when Stimpy runs down the stairs and slides up the pole."
+            },
+            {
+              "title": "William Tell Overture",
+              "movement": "(\"Finale\" Movement)",
+              "artist": "Gioachino Rossini",
+              "time": "5:52",
+              "scene": "Plays when the fire truck drives to the burning building."
+            },
+            {
+              "title": "Romeo and Juliet Fantasy Overture",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "time": "6:47",
+              "scene": "Plays when Mr. Horse drops."
+            },
+            {
+              "title": "Nutcracker, The - Waltz of the Flowers",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "segment": "Log for Girls commercial",
+              "time": "11:20",
+              "scene": "Plays when Log for Girls is shown."
+            }
+          ]
+        },
+        {
+          "The Littlest Giant": [
+            {
+              "title": "New World Symphony",
+              "movement": "(2nd Movement)",
+              "artist": "Antonin Dvorak",
+              "time": "12:24",
+              "scene": "Plays when Ren and Stimpy are praying."
+            },
+            {
+              "title": "Pizzicati",
+              "notes": "(from Sylvia)",
+              "artist": "Leo Delibes",
+              "time": "12:53",
+              "scene": "Plays when Ren buttons Stimpy."
+            },
+            {
+              "title": "Brahms's Lullaby",
+              "artist": "Johannes Brahms",
+              "time": "13:04",
+              "scene": "Plays when Stimpy asks if Ren will read him a bedtime story."
+            },
+            {
+              "title": "Radetzky March",
+              "artist": "Johann Strauss",
+              "time": "14:20",
+              "scene": "Plays when the story begins."
+            },
+            {
+              "title": "Clair de Lune",
+              "artist": "Claude Debussy",
+              "time": "15:25",
+              "scene": "Plays when Stimpy is sitting alone, crying."
+            },
+            {
+              "title": "Nutcracker, The - Arabian Dance",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "time": "18:09",
+              "scene": "Plays when Ren first appears in the story."
+            },
+            {
+              "title": "Reverie",
+              "artist": "Robert Schumann",
+              "time": "18:54",
+              "scene": "Plays when Ren wakes up from Stimpy's crying."
+            },
+            {
+              "title": "Clair de Lune",
+              "artist": "Claude Debussy",
+              "time": "19:00",
+              "scene": "Plays when Stimpy is crying as his tears fill up the well."
+            },
+            {
+              "title": "Pizzicati",
+              "notes": "(from Sylvia)",
+              "artist": "Leo Delibes",
+              "time": "21:34",
+              "scene": "Plays at ending of the episode."
+            }
+          ]
+        },
+        {
+          "Marooned": [
+            {
+              "title": "Nutcracker, The - Dance of the Reed-Flutes",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "time": "3:55",
+              "scene": "Plays when Stimpy pulls out the space cadet handbook."
+            },
+            {
+              "title": "Nutcracker, The - Dance of the Reed-Flutes",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "time": "5:25",
+              "scene": "Plays when Ren asks what they're going to do about food."
+            },
+            {
+              "title": "Anitra's Dance",
+              "notes": "(from Peer Gynt suites)",
+              "artist": "Edvard Grieg",
+              "time": "6:50",
+              "scene": "Plays during the space cabbage scene."
+            },
+            {
+              "title": "Dance of the Hours",
+              "artist": "Amilcare Ponchielli",
+              "time": "7:35",
+              "scene": "Plays when Ren slaps Stimpy, right before the tent scene."
+            },
+            {
+              "title": "Scheherezade",
+              "movement": "(2nd Movement)",
+              "artist": "Nikolai Rimsky-Korsakov",
+              "time": "7:45",
+              "scene": "Plays when Ren and Stimpy are first in the tent."
+            },
+            {
+              "title": "Peter and the Wolf",
+              "notes": "(\u201cCat\u201d theme)",
+              "artist": "Sergei Prokofiev",
+              "time": "8:46",
+              "scene": "Plays when Ren hits his head on the moon."
+            },
+            {
+              "title": "Song of the Volga Boatmen",
+              "artist": "Igor Tuhmanov",
+              "time": "8:58",
+              "scene": "Plays when Stimpy is tied up."
+            },
+            {
+              "title": "Pomp and Circumstance",
+              "artist": "Edward Elgar",
+              "segment": "Ask Dr. Stupid",
+              "time": "12:34",
+              "scene": "Plays as Stimpy rises from the bath."
+            }
+          ]
+        },
+        {
+          "Untamed World": [
+            {
+              "title": "Nutcracker, The - Waltz of the Flowers",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "time": "17:30",
+              "scene": "Plays when the baby Stimpys hatch."
+            },
+            {
+              "title": "Hungarian Dances",
+              "notes": "(no. 5)",
+              "artist": "Johannes Brahms",
+              "time": "23:10",
+              "scene": "Plays when the lizard Ren walks."
+            },
+            {
+              "title": "Nutcracker, The - Waltz of the Flowers",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "segment": "Log for Girls commercial",
+              "time": "24:23",
+              "scene": "Plays when Log for Girls is shown."
+            }
+          ]
+        },
+        {
+          "Black Hole": [
+            {
+              "title": "Barber of Seville, The",
+              "artist": "Gioachino Rossini",
+              "time": "3:04",
+              "scene": "Plays when Ren says \"Pull yourself together, misters!\""
+            },
+            {
+              "title": "Peter and the Wolf",
+              "notes": "(\u201cCat\u201d theme)",
+              "artist": "Sergei Prokofiev",
+              "time": "6:14",
+              "scene": "Plays when Stimpy says they need to leave."
+            }
+          ]
+        },
+        {
+          "Stimpy\u2019s Invention": [
+            {
+              "title": "New World Symphony",
+              "movement": "(4th Movement)",
+              "artist": "Antonin Dvorak",
+              "time": "00:00",
+              "scene": "Title card."
+            },
+            {
+              "title": "Dance of the Hours",
+              "artist": "Amilcare Ponchielli",
+              "time": "10:40",
+              "scene": "Plays when Stimpy asks Ren to try out his inventions."
+            },
+            {
+              "title": "Nutcracker, The - Dance of the Sugar Plum Fairy",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "time": "12:19",
+              "scene": "Plays when Stimpy introduces Stay-Put Socks."
+            },
+            {
+              "title": "Symphony No. 6 in F Major, Op. 68 \u201cPastorale\u201d",
+              "movement": "(4th Movement)",
+              "artist": "Ludwig van Beethoven",
+              "time": "14:04",
+              "scene": "Plays when Stimpy is taking off his goggles."
+            },
+            {
+              "title": "Dance of the Hours",
+              "artist": "Amilcare Ponchielli",
+              "time": "16:00",
+              "scene": "Plays when Stimpy asks, \"Are you feeling any better?\""
+            },
+            {
+              "title": "Night on Bald Mountain",
+              "artist": "Modest Mussorgsky",
+              "time": "16:35",
+              "scene": "Plays when the Happy Helmet is first put on Ren."
+            },
+            {
+              "title": "Flight of the Bumblebee, The",
+              "artist": "Nikolai Rimsky-Korsakov",
+              "time": "17:02",
+              "scene": "Plays when the Happy Helmet starts to take effect."
+            },
+            {
+              "title": "Symphony No. 6 in F Major, Op. 68 \u201cPastorale\u201d",
+              "movement": "(4th Movement)",
+              "artist": "Ludwig van Beethoven",
+              "time": "22:18",
+              "scene": "Plays when Ren shouts, \"I've never been more angry in my entire life!!!\""
+            },
+            {
+              "title": "Dance of the Hours",
+              "artist": "Amilcare Ponchielli",
+              "time": "22:30",
+              "scene": "Plays when Ren thanks Stimpy for making him feel angry."
+            },
+            {
+              "title": "Pomp and Circumstance",
+              "artist": "Edward Elgar",
+              "segment": "Ask Dr. Stupid",
+              "time": "22:44",
+              "scene": "Plays throughout segment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Season 2": [
+        {
+          "Ren\u2019s Toothache": [
+            {
+              "title": "Die Fledermaus",
+              "artist": "Johann Strauss II",
+              "time": "00:00",
+              "scene": "Title card."
+            },
+            {
+              "title": "Brahms's Lullaby",
+              "artist": "Johannes Brahms",
+              "time": "2:25",
+              "scene": "Plays when Ren is sleeping, right before his tooth starts to hurt."
+            },
+            {
+              "title": "William Tell Overture",
+              "movement": "(\"Ranz des Vaches\" Movement)",
+              "artist": "Gioachino Rossini",
+              "time": "4:42",
+              "scene": "Plays at morning, right before we see Ren has ground all his teeth up."
+            },
+            {
+              "title": "Anitra's Dance",
+              "notes": "(from Peer Gynt suites)",
+              "artist": "Edvard Grieg",
+              "time": "7:43",
+              "scene": "Plays when Ren pulls out his nerve endings."
+            },
+            {
+              "title": "Nutcracker, The - Dance of the Sugar Plum Fairy",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "time": "8:12",
+              "scene": "Plays when the Nerve Endings Fairy appears."
+            },
+            {
+              "title": "Nutcracker, The - Dance of the Sugar Plum Fairy",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "time": "10:48",
+              "scene": "Plays when Ren is smiling with his big tooth."
+            }
+          ]
+        },
+        {
+          "Rubber Nipple Salesmen": [
+            {
+              "title": "Aus Italien",
+              "notes": "(aka \"Funicul\u00ec, Funicula\")",
+              "artist": "Richard Strauss",
+              "time": "00:00",
+              "scene": "Title card."
+            },
+            {
+              "title": "Carnival of the Animals",
+              "notes": "(\"Fossils\")",
+              "artist": "Camille Saint-Saens",
+              "time": "15:02",
+              "scene": "Plays when the fire chief says, \"I'm sorry. I thought you were a... circus midget!\"."
+            },
+            {
+              "title": "Carnival of the Animals",
+              "notes": "(\"Aquarium\")",
+              "artist": "Camille Saint-Saens",
+              "time": "16:00",
+              "scene": "Plays when the camera pans up Mr. Horse."
+            },
+            {
+              "title": "Funeral March of a Marionette",
+              "artist": "Charles Gounod",
+              "time": "17:01",
+              "scene": "Plays when Mr. Horse says, \"Oh! It IS a nipple!\""
+            }
+          ]
+        },
+        {
+          "Sv\u00ebn H\u00f6ek": [
+            {
+              "title": "Funeral March of a Marionette",
+              "artist": "Charles Gounod",
+              "time": "3:18",
+              "scene": "Plays when Ren is sitting in the chair and Stimpy is on the floor."
+            },
+            {
+              "title": "Brahms's Lullaby",
+              "artist": "Johannes Brahms",
+              "time": "3:58",
+              "scene": "Plays when Ren looks at a photo of he and Sven."
+            },
+            {
+              "title": "Funeral March of a Marionette",
+              "artist": "Charles Gounod",
+              "time": "9:21",
+              "scene": "Plays when Ren is ready to go to work."
+            }
+          ]
+        },
+        {
+          "Haunted House": [
+            {
+              "title": "Toccata and Fugue in D-Minor BWV 565",
+              "artist": "Johann Sebastian Bach",
+              "time": "00:00",
+              "scene": "Title card."
+            },
+            {
+              "title": "Brahms's Lullaby",
+              "artist": "Johannes Brahms",
+              "time": "5:14",
+              "scene": "Plays when Ren and Stimpy are in bed."
+            },
+            {
+              "title": "New World Symphony",
+              "movement": "(2nd Movement)",
+              "artist": "Antonin Dvorak",
+              "time": "8:00",
+              "scene": "Plays when the ghost thinks he's a failure."
+            },
+            {
+              "title": "Funeral March",
+              "artist": "Frederic Chopin",
+              "time": "8:42",
+              "scene": "Plays when the ghost wants to kill himself."
+            }
+          ]
+        },
+        {
+          "Mad Dog Hoek": [
+            {
+              "title": "Washington Post March",
+              "artist": "John Philip Sousa",
+              "time": "00:00",
+              "scene": "Title card."
+            },
+            {
+              "title": "Carmen: Aragonaise",
+              "artist": "Georges Bizet",
+              "time": "11:27",
+              "scene": "Plays when \"Let me at 'em!\" is said."
+            },
+            {
+              "title": "Brahms' Lullaby",
+              "artist": "Johannes Brahms",
+              "time": "12:19",
+              "scene": "Plays when the sleeper hold is applied."
+            },
+            {
+              "title": "D. 112: III. Menuetto: Allegro - Trio",
+              "artist": "Franz Schubert",
+              "time": "16:15",
+              "scene": "Plays when Ren is reading a book."
+            }
+          ]
+        },
+        {
+          "In the Army": [
+            {
+              "title": "Funeral March",
+              "artist": "Frederic Chopin",
+              "time": "6:21",
+              "scene": "Plays when Ren and Stimpy are forced back into the tear gas chamber."
+            },
+            {
+              "title": "Brahms' Lullaby",
+              "artist": "Johannes Brahms",
+              "time": "8:11",
+              "scene": "Plays when Ren and Stimpy are in bed."
+            },
+            {
+              "title": "Pomp and Circumstance",
+              "artist": "Edward Elgar",
+              "segment": "Ask Dr. Stupid",
+              "time": "13:01",
+              "scene": "Plays throughout segment."
+            }
+          ]
+        },
+        {
+          "Big House Blues": [
+            {
+              "title": "Hallelujah Chorus",
+              "artist": "George Frideric Handel",
+              "time": "16:43",
+              "scene": "Plays when the sun is shining."
+            },
+            {
+              "title": "Polovtsian Dances",
+              "notes": "(from Prince Igor)",
+              "artist": "Alexander Borodin",
+              "time": "20:32",
+              "scene": "Plays when Stimpy waves goodbye to Ren."
+            },
+            {
+              "title": "Polovtsian Dances",
+              "notes": "(from Prince Igor)",
+              "artist": "Alexander Borodin",
+              "time": "20:34",
+              "scene": "Plays when Stimpy waves goodbye to Ren."
+            },
+            {
+              "title": "Nutcracker, The - Waltz of the Flowers",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "segment": "Log for Girls commercial",
+              "time": "22:02",
+              "scene": "Plays when Log for Girls is shown."
+            }
+          ]
+        },
+        {
+          "Big Baby Scam": [
+            {
+              "no_music": "No classical music."
+            }
+          ]
+        },
+        {
+          "Dog Show": [
+            {
+              "title": "Carmen: March of the Toreadors",
+              "artist": "Georges Bizet",
+              "time": "00:00",
+              "scene": "Title card."
+            },
+            {
+              "title": "Entry of the Gladiators",
+              "artist": "Julius Fucik",
+              "time": "13:53",
+              "scene": "Plays when all the competitors entering the judging station."
+            },
+            {
+              "title": "Liberty Bell March, The",
+              "artist": "John Philip Sousa",
+              "time": "18:23",
+              "scene": "Plays when Ren, Stimpy, and George Liquor enter the stadium."
+            },
+            {
+              "title": "La Muette De Portici",
+              "artist": "Daniel Auber",
+              "time": "20:15",
+              "scene": "Plays when Stimpy is disqualified."
+            }
+          ]
+        },
+        {
+          "Monkey See, Monkey Don\u2019t": [
+            {
+              "no_music": "No classical music."
+            }
+          ]
+        },
+        {
+          "Powdered Toast Man": [
+            {
+              "title": "Flying Dutchman, The",
+              "artist": "Richard Wagner",
+              "time": "00:00",
+              "scene": "Title card."
+            },
+            {
+              "title": "Ballet Music",
+              "notes": "(from Faust)",
+              "artist": "Charles Gounod",
+              "time": "13:56",
+              "scene": "Plays when PTM shoots down the plane."
+            },
+            {
+              "title": "Festival Overture 1812 Op.49",
+              "notes": "(1812 Overture)",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "time": "14:30",
+              "scene": "Plays when PTM picks up the kitten."
+            },
+            {
+              "title": "Festival Overture 1812 Op.49",
+              "notes": "(1812 Overture)",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "time": "16:03",
+              "scene": "Plays when he says \"Leave everything to me!\" before the scene with The Pope."
+            },
+            {
+              "title": "William Tell Overture",
+              "movement": "(\"Finale\" Movement)",
+              "artist": "Gioachino Rossini",
+              "time": "16:48",
+              "scene": "Plays when PTM takes off after rescuing the Pope."
+            },
+            {
+              "title": "Prelude A L'Apres- Midi D'Un Faune",
+              "artist": "Claude Debussy",
+              "time": "18:44",
+              "scene": "Plays right before \"Magical Effect (e)\"."
+            },
+            {
+              "title": "Pizzicati",
+              "notes": "(from Sylvia)",
+              "artist": "Leo Delibes",
+              "time": "19:23",
+              "scene": "Plays when Ren and Stimpy eat Powdered Toast, satisfied."
+            }
+          ]
+        },
+        {
+          "Fake Dad": [
+            {
+              "title": "Symphony No. 94",
+              "notes": "(Surprise Symphony)",
+              "artist": "Franz Joseph Haydn",
+              "time": "3:42",
+              "scene": "Plays when Kowalski is sitting in Ren's favourite chair."
+            }
+          ]
+        },
+        {
+          "Out West": [
+            {
+              "no_music": "No classical music."
+            }
+          ]
+        },
+        {
+          "Stimpy\u2019s Fan Club": [
+            {
+              "title": "Nutcracker, The - Dance of the Sugar Plum Fairy",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "time": "6:32",
+              "scene": "Plays when Ren reads the second fan letter."
+            },
+            {
+              "title": "Pomp and Circumstance",
+              "artist": "Edward Elgar",
+              "time": "10:25",
+              "scene": "Plays when Ren vows to do better as president."
+            },
+            {
+              "title": "Carnival of the Animals",
+              "notes": "(\"Fossils\")",
+              "artist": "Camille Saint-Saens",
+              "time": "18:45",
+              "scene": "Plays when there's a letter for Ren."
+            }
+          ]
+        },
+        {
+          "The Great Outdoors": [
+            {
+              "title": "Nutcracker, The - Overture",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "time": "02:58",
+              "scene": "Plays when Ren and Stimpy are at the lake."
+            },
+            {
+              "title": "In the Hall of the Mountain King",
+              "artist": "Edvard Grieg",
+              "time": "04:50",
+              "scene": "Plays when the bearded man goes skinnydipping with Ren and Stimpy."
+            },
+            {
+              "title": "Spring Song",
+              "artist": "Felix Mendelssohn",
+              "time": "07:37",
+              "scene": "Plays when a charred Ren punches Stimpy."
+            },
+            {
+              "title": "Flight of the Bumblebee, The",
+              "artist": "Nikolai Rimsky-Korsakov",
+              "time": "08:34",
+              "scene": "Plays when a mosquito sucks Ren's blood."
+            },
+            {
+              "title": "Morning From Peer Gynt Suite No. 1",
+              "artist": "Edvard Grieg",
+              "time": "09:11",
+              "scene": "Plays the next morning, after Ren has been bitten by tons of mosquitos."
+            },
+            {
+              "title": "Pizzicati",
+              "notes": "(from Sylvia)",
+              "artist": "Leo Delibes",
+              "time": "09:56",
+              "scene": "Plays when Ren is about to drink from the lake."
+            },
+            {
+              "title": "Night on Bald Mountain",
+              "artist": "Modest Mussorgsky",
+              "time": "10:46",
+              "scene": "Plays when Ren turns into a beaver."
+            },
+            {
+              "title": "In the Hall of the Mountain King",
+              "artist": "Edvard Grieg",
+              "time": "11:16",
+              "scene": "Plays at the ending of the episode."
+            }
+          ]
+        },
+        {
+          "The Cat That Laid the Golden Hairball": [
+            {
+              "title": "Coppelia, Act I: No. 1, Valse",
+              "artist": "Leo Delibes",
+              "time": "12:20",
+              "scene": "Plays when Ren is angry about all the hairballs in the house."
+            },
+            {
+              "title": "Danse Macabre",
+              "artist": "Camille Saint-Saens",
+              "time": "13:21",
+              "scene": "Plays when Ren says, \"They're vile, they're stinky, but I love them!\"."
+            },
+            {
+              "title": "Nutcracker, The - Overture",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "time": "13:34",
+              "scene": "Plays when Ren praises Stimpy for his hairballs."
+            },
+            {
+              "title": "Danse Macabre",
+              "artist": "Camille Saint-Saens",
+              "time": "13:48",
+              "scene": "Plays when Stimpy throws up on Ren."
+            },
+            {
+              "title": "Sabre Dance",
+              "artist": "Aram Khachaturian",
+              "time": "15:28",
+              "scene": "Plays during the third hairball output montage."
+            },
+            {
+              "title": "Barber of Seville, The",
+              "artist": "Gioachino Rossini",
+              "time": "17:05",
+              "scene": "Plays when Stimpy licks Bubba's arm."
+            },
+            {
+              "title": "String Quintet in E, Op. 11, No. 5, G. 275: III. Minuetto",
+              "artist": "Luigi Boccherini",
+              "time": "17:33",
+              "scene": "Plays when Stimpy licks Bubba's hair off his back."
+            },
+            {
+              "title": "Carnival of the Animals",
+              "notes": "(\"Aquarium\")",
+              "artist": "Camille Saint-Saens",
+              "time": "20:10",
+              "scene": "Plays when Bubba is walking around inside Stimpy."
+            },
+            {
+              "title": "Symphony No. 6 (Pathetique)",
+              "movement": "(4th Movement)",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "time": "20:53",
+              "scene": "Plays when Stimpy is about to \"die\"."
+            }
+          ]
+        },
+        {
+          "A Visit to Anthony": [
+            {
+              "title": "Song of the Volga Boatmen",
+              "artist": "Igor Tuhmanov",
+              "time": "00:00",
+              "scene": "Opening of the episode."
+            },
+            {
+              "title": "Humoresque",
+              "artist": "Antonin Dvorak",
+              "time": "03:43",
+              "scene": "Plays when Ren and Stimpy kiss the wives goodbye."
+            },
+            {
+              "title": "Tales from the Vienna Woods",
+              "artist": "Johann Strauss II",
+              "time": "06:06",
+              "scene": "Plays when Ren demonstrates the eye bulging gag."
+            },
+            {
+              "title": "Brahms's Lullaby",
+              "artist": "Johannes Brahms",
+              "time": "6:49",
+              "scene": "Plays when when Ren and Stimpy (and Anthony) are in bed."
+            },
+            {
+              "title": "William Tell Overture",
+              "movement": "(\"Ranz des Vaches\" Movement)",
+              "artist": "Gioachino Rossini",
+              "time": "7:13",
+              "scene": "Plays at morning."
+            },
+            {
+              "title": "Symphonie Fantastique",
+              "movement": "(Movement 4)",
+              "artist": "Hector Berlioz",
+              "time": "9:09",
+              "scene": "Plays when Anthony's dad says, \"Excuse me. Don't you even put that picture in my head!\""
+            },
+            {
+              "title": "Carnival of the Animals",
+              "notes": "(\"Swan\")",
+              "artist": "Camille Saint-Saens",
+              "time": "14:49",
+              "scene": "Plays when Anthony's dad lays a hurt Anthony into bed."
+            },
+            {
+              "title": "Can-Can",
+              "notes": "(from \"Orpheus in the Underworld\")",
+              "artist": "Jacques Offenbach",
+              "time": "15:22",
+              "scene": "Plays when Anthony sits up in bed and shrugs his shoulders."
+            }
+          ]
+        },
+        {
+          "The Royal Canadian Kilted Yaksmen": [
+            {
+              "title": "Carnival of the Animals",
+              "notes": "(\"Aquarium\")",
+              "artist": "Camille Saint-Saens",
+              "time": "12:42",
+              "scene": "Plays after the yak comes to his senses."
+            },
+            {
+              "title": "Barber of Seville, The",
+              "artist": "Gioachino Rossini",
+              "time": "14:24",
+              "scene": "Plays at the start of the scene where everyone searches for dirt."
+            },
+            {
+              "title": "Peter and the Wolf",
+              "artist": "Sergei Prokofiev",
+              "time": "15:16",
+              "scene": "Plays when everyone's walking through the desert, right before they strike dirt. (\"Grandfather\" theme)"
+            },
+            {
+              "title": "Morning From Peer Gynt Suite No. 1",
+              "artist": "Edvard Grieg",
+              "time": "17:16",
+              "scene": "Plays when everyone wakes up the next morning, stuffed."
+            }
+          ]
+        },
+        {
+          "Son of Stimpy/Stimpy\u2019s First Fart": [
+            {
+              "title": "Hallelujah Chorus",
+              "artist": "George Frideric Handel",
+              "time": "00:00",
+              "scene": "Title card."
+            },
+            {
+              "title": "Symphony No. 6 (Pastorale)",
+              "movement": "(1st Movement)",
+              "artist": "Ludwig Van Beethoven",
+              "time": "01:06",
+              "scene": "Plays as the opening of the episode."
+            },
+            {
+              "title": "Dance of the Hours",
+              "artist": "Amilcare Ponchielli",
+              "time": "02:00",
+              "scene": "Plays when Stimpy says Ren will never believe what happened."
+            },
+            {
+              "title": "Coriolan Overture",
+              "artist": "Ludwig Van Beethoven",
+              "time": "03:16",
+              "scene": "Plays when Stimpy tries to fart."
+            },
+            {
+              "title": "Symphony No. 6 (Pastorale) (Pastorale)",
+              "movement": "(4th Movement)",
+              "artist": "Ludwig Van Beethoven",
+              "time": "04:21",
+              "scene": "Plays during montage where Stimpy looks for Stinky."
+            },
+            {
+              "title": "Clair de Lune",
+              "artist": "Claude Debussy",
+              "time": "05:43",
+              "scene": "Plays when Stimpy is staring at the TV, sad."
+            },
+            {
+              "title": "Nocturne From String Quartet No. 2",
+              "artist": "Alexander Borodin",
+              "time": "08:57",
+              "scene": "Plays when Stimpy is wide awake in bed."
+            },
+            {
+              "title": "Bella Mia Fiamma Addio \u2013 Aria For Soprano and Orchestra Aria",
+              "artist": "Wolfgang Amadeus Mozart",
+              "time": "09:17",
+              "scene": "Plays when Stinky looks through the window at Stimpy."
+            },
+            {
+              "title": "Symphony No. 6",
+              "notes": "(Pathetique)",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "time": "11:49",
+              "scene": "Plays when Ren prays at the house after Stimpy leaves for the city."
+            },
+            {
+              "title": "Symphony No. 5",
+              "movement": "(3rd Movement)",
+              "artist": "Ludwig Van Beethoven",
+              "time": "12:24",
+              "scene": "Plays when Stimpy searches for Stinky in the city."
+            },
+            {
+              "title": "Polovetsian Dances",
+              "notes": "(from Prince Igor)",
+              "artist": "Alexander Borodin",
+              "time": "14:55",
+              "scene": "Plays when Stinky sits on Stimpy's butt."
+            },
+            {
+              "title": "Romeo and Juliet Fantasy Overture",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "time": "16:54",
+              "scene": "Plays when Stimpy returns home."
+            },
+            {
+              "title": "Symphony No. 6 (Pathetique)",
+              "movement": "(1st Movement)",
+              "artist": "Pyotr Ilyich Tchaikovsky",
+              "time": "19:35",
+              "scene": "Plays when Stimpy hugs Stinky."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -15,7 +15,7 @@ rasc_path = os.path.join(root_dir, 'rasc.json')
 with open(rasc_path, 'r') as f:        
     rasc_json = json.load(f)
 
-rasc_md_path = os.path.join(root_dir, 'rasc.md')
+rasc_md_path = os.path.join(root_dir, 'rasc', 'src', 'slides.md')
 os.remove(rasc_md_path)
 rasc_md = open(rasc_md_path, 'a', encoding='utf-8')
 
@@ -49,6 +49,6 @@ for season in rasc_json['seasons']:
                              + '</iframe>|'
             print(track_markdown, file=rasc_md)
             print('|--|--|--|', file=rasc_md)
-    print('\n---\n', file=rasc_md)
+    print('\n\n---\n\n', file=rasc_md)
 
 rasc_md.close()

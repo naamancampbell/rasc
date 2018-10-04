@@ -35,7 +35,7 @@ Romeo and Juliet Fantasy Overture by Pyotr Ilyich Tchaikovsky.
 (9:57) Plays when Ren climbs Stimpy's nose hair.
 Poet and Peasant Overture by Franz von Suppe.
 (10:00) Plays during the duel.
-Song of the Volga Boat Men by Igor Tuhmanov.
+Song of the Volga Boatmen by Igor Tuhmanov.
 (11:00) Plays right before Ren wakes up from the dream.
  
 Nurse Stimpy
@@ -51,7 +51,7 @@ Symphony No. 6 in F Major, Op. 68 “Pastorale” by Ludwig van Beethoven.
 Space Madness
 New World Symphony by Antonin Dvorak. (1st Movement)
 Title card. 
-Thieving Magpie, The by Gioacchino Rossini.
+Thieving Magpie, The by Gioachino Rossini.
 (5:00) Plays at the start of Ren's bath.
 Night on Bald Mountain by Modest Mussorgsky.	
 (10:03) Plays when Ren describes his job to Stimpy.
@@ -63,13 +63,13 @@ Nutcracker, The - Dance of the Sugar Plum Fairy by Pyotr Ilyich Tchaikovsky.
 [Yak Shaving Day commercial] (22:54) Plays when the yak is in the bathroom.
 
 Fire Dogs
-Barber of Seville, The by Gioacchino Rossini.
+Barber of Seville, The by Gioachino Rossini.
 [Ask Dr. Stupid] (00:00) Plays throughout.
 Piano Concerto No. 21 (Elvira Madigan) by Wolfgang Amadeus Mozart.
 (2:40) Plays when Ren eats Gritty Kitty Litter.
 Tritsch-Tratsch-Polka by Johann Strauss II.
 (5:08) Plays when Stimpy runs down the stairs and slides up the pole.
-William Tell Overture by Gioacchino Rossini. ("Finale" Movement)
+William Tell Overture by Gioachino Rossini. ("Finale" Movement)
 (5:52) Plays when the fire truck drives to the burning building.
 Romeo and Juliet Fantasy Overture by Pyotr Ilyich Tchaikovsky.
 (6:47) Plays when Mr. Horse drops.
@@ -109,7 +109,7 @@ Scheherezade by Nikolai Rimsky-Korsakov. (2nd Movement)
 (7:45) Plays when Ren and Stimpy are first in the tent.
 Peter and the Wolf (“Cat” theme) by Sergei Prokofiev.
 (8:46) Plays when Ren hits his head on the moon.
-Song of the Volga Boat Men by Igor Tuhmanov.
+Song of the Volga Boatmen by Igor Tuhmanov.
 (8:58) Plays when Stimpy is tied up.
 Pomp and Circumstance by Edward Elgar.
 [Ask Dr. Stupid] (12:34) Plays as Stimpy rises from the bath.
@@ -123,7 +123,7 @@ Nutcracker, The - Waltz of the Flowers by Pyotr Ilyich Tchaikovsky.
 [Log for Girls commercial] (24:23) Plays when Log for Girls is shown.
 
 Black Hole
-Barber of Seville, The by Gioacchino Rossini.
+Barber of Seville, The by Gioachino Rossini.
 (3:04) Plays when Ren says "Pull yourself together, misters!"
 Peter and the Wolf (“Cat” theme) by Sergei Prokofiev.
 (6:14) Plays when Stimpy says they need to leave.
@@ -157,7 +157,7 @@ Die Fledermaus by Johann Strauss II.
 Title card.
 Brahms's Lullaby by Johannes Brahms.
 (2:25) Plays when Ren is sleeping, right before his tooth starts to hurt.
-William Tell Overture by Gioacchino Rossini. ("Ranz des Vaches" Movement)
+William Tell Overture by Gioachino Rossini. ("Ranz des Vaches" Movement)
 (4:42) Plays at morning, right before we see Ren has ground all his teeth up.
 Anitra's Dance (from Peer Gynt suites) by Edvard Grieg.
 (7:43) Plays when Ren pulls out his nerve endings.
@@ -201,7 +201,7 @@ Carmen: Aragonaise by Georges Bizet.
 (11:27) Plays when "Let me at 'em!" is said.
 Brahms' Lullaby by Johannes Brahms.
 (12:19) Plays when the sleeper hold is applied.
-Quartet for Strings, D. 112: III. Menuetto: Allegro - Trio by Franz Schubert.
+D. 112: III. Menuetto: Allegro - Trio by Franz Schubert.
 (16:15) Plays when Ren is reading a book.
 
 In the Army
@@ -243,11 +243,11 @@ Flying Dutchman, The by Richard Wagner.
 Title card.
 Ballet Music (from Faust) by Charles Gounod.
 (13:56) Plays when PTM shoots down the plane.
-Festival Overture 1812 Op.49 (1812 Overture) by Peter Ilyich Tchaikovsky.
+Festival Overture 1812 Op.49 (1812 Overture) by Pyotr Ilyich Tchaikovsky.
 (14:30) Plays when PTM picks up the kitten.
-Festival Overture 1812 Op.49 (1812 Overture) by Peter Ilyich Tchaikovsky.
+Festival Overture 1812 Op.49 (1812 Overture) by Pyotr Ilyich Tchaikovsky.
 (16:03) Plays when he says "Leave everything to me!" before the scene with The Pope.
-William Tell Overture by Gioacchino Rossini. ("Finale" Movement)
+William Tell Overture by Gioachino Rossini. ("Finale" Movement)
 (16:48) Plays when PTM takes off after rescuing the Pope.
 Prelude A L'Apres- Midi D'Un Faune by Claude Debussy.
 (18:44) Plays right before "Magical Effect (e)".
@@ -288,7 +288,7 @@ In the Hall of the Mountain King by Edvard Grieg.
 (11:16) Plays at the ending of the episode.
 
 The Cat That Laid the Golden Hairball
-Coppelia Ballet Suite Act 1 No 1 by Leo Delibes.
+Coppelia, Act I: No. 1, Valse by Leo Delibes.
 (12:20) Plays when Ren is angry about all the hairballs in the house.
 Danse Macabre by Camille Saint-Saens.
 (13:21) Plays when Ren says, "They're vile, they're stinky, but I love them!".
@@ -298,9 +298,9 @@ Danse Macabre by Camille Saint-Saens.
 (13:48) Plays when Stimpy throws up on Ren.
 Sabre Dance by Aram Khachaturian.
 (15:28) Plays during the third hairball output montage.
-Barber of Seville, The by Gioacchino Rossini.
+Barber of Seville, The by Gioachino Rossini.
 (17:05) Plays when Stimpy licks Bubba's arm.
-String Quintet in E, Op. 11, No. 5 ("Minuet" section) by Luigi Boccherini.
+String Quintet in E, Op. 11, No. 5, G. 275: III. Minuetto by Luigi Boccherini.
 (17:33) Plays when Stimpy licks Bubba's hair off his back.
 Carnival of the Animals ("Aquarium") by Camille Saint-Saens.
 (20:10) Plays when Bubba is walking around inside Stimpy.
@@ -308,7 +308,7 @@ Symphony No. 6 (Pathetique) by Pyotr Ilyich Tchaikovsky. (4th Movement)
 (20:53) Plays when Stimpy is about to "die". 
 
 A Visit to Anthony
-Song of the Volga Boat Men by Igor Tuhmanov.
+Song of the Volga Boatmen by Igor Tuhmanov.
 (00:00) Opening of the episode.
 Humoresque by Antonin Dvorak.
 (03:43) Plays when Ren and Stimpy kiss the wives goodbye.
@@ -316,7 +316,7 @@ Tales from the Vienna Woods by Johann Strauss II.
 (06:06) Plays when Ren demonstrates the eye bulging gag.
 Brahms's Lullaby by Johannes Brahms.
 (6:49) Plays when when Ren and Stimpy (and Anthony) are in bed.
-William Tell Overture by Gioacchino Rossini. ("Ranz des Vaches" Movement)
+William Tell Overture by Gioachino Rossini. ("Ranz des Vaches" Movement)
 (7:13) Plays at morning.
 Symphonie Fantastique by Hector Berlioz. (Movement 4)
 (9:09) Plays when Anthony's dad says, "Excuse me. Don't you even put that picture in my head!"
@@ -328,7 +328,7 @@ Can-Can (from "Orpheus in the Underworld") by Jacques Offenbach.
 The Royal Canadian Kilted Yaksmen
 Carnival of the Animals ("Aquarium") by Camille Saint-Saens.
 (12:42) Plays after the yak comes to his senses.
-Barber of Seville, The by Gioacchino Rossini.
+Barber of Seville, The by Gioachino Rossini.
 (14:24) Plays at the start of the scene where everyone searches for dirt.
 Peter and the Wolf by Sergei Prokofiev.
 (15:16) Plays when everyone's walking through the desert, right before they strike dirt. ("Grandfather" theme)
@@ -338,13 +338,13 @@ Morning From Peer Gynt Suite No. 1 by Edvard Grieg.
 Son of Stimpy/Stimpy’s First Fart
 Hallelujah Chorus by George Frideric Handel.
 Title card.
-Beethoven's Sixth Symphony (Pastorale) by Ludwig Van Beethoven. (1st Movement)
+Symphony No. 6 (Pastorale) by Ludwig Van Beethoven. (1st Movement)
 (01:06) Plays as the opening of the episode.
 Dance of the Hours by Amilcare Ponchielli.
 (02:00) Plays when Stimpy says Ren will never believe what happened.
 Coriolan Overture by Ludwig Van Beethoven.
 (03:16) Plays when Stimpy tries to fart.
-Beethoven's Sixth Symphony (Pastorale) by Ludwig Van Beethoven. (4th Movement)
+Symphony No. 6 (Pastorale) (Pastorale) by Ludwig Van Beethoven. (4th Movement)
 (04:21) Plays during montage where Stimpy looks for Stinky.
 Clair de Lune by Claude Debussy.
 (05:43) Plays when Stimpy is staring at the TV, sad.
@@ -354,7 +354,7 @@ Bella Mia Fiamma Addio – Aria For Soprano and Orchestra Aria by Wolfgang Amade
 (09:17) Plays when Stinky looks through the window at Stimpy.
 Symphony No. 6 (Pathetique) by Pyotr Ilyich Tchaikovsky.
 (11:49) Plays when Ren prays at the house after Stimpy leaves for the city.
-Beethoven's Fifth Symphony by Ludwig Van Beethoven. (3rd Movement)
+Symphony No. 5 by Ludwig Van Beethoven. (3rd Movement)
 (12:24) Plays when Stimpy searches for Stinky in the city.
 Polovetsian Dances (from Prince Igor) by Alexander Borodin.
 (14:55) Plays when Stinky sits on Stimpy's butt.

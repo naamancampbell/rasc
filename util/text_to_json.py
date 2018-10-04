@@ -55,10 +55,20 @@ for line in rasc_file:
     track_match = re.search(r'^(\w.*) by (.*)\.', line)
     if track_match:
         track_index += 1
-        track_dict = {
-            'title': track_match.group(1),
-            'artist': track_match.group(2)
-        }
+        title = track_match.group(1)
+        artist = track_match.group(2)
+        notes_match = re.search(r'^(.*) (\(.*\))', title)
+        if notes_match:
+            track_dict = {
+                'title': notes_match.group(1),
+                'notes': notes_match.group(2),
+                'artist': artist
+            }
+        else:
+            track_dict = {
+                'title': title,
+                'artist': artist
+            }
         rasc_dict['seasons'][season_index][season_title][episode_index]\
             [episode_title].append(track_dict)
         continue
