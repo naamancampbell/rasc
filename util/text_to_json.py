@@ -5,7 +5,7 @@ import sys
 
 util_dir = os.path.dirname(os.path.abspath(__file__))
 root_dir = os.path.dirname(util_dir)
-rasc_path = os.path.join(root_dir, 'rasc.txt')
+rasc_path = os.path.join(root_dir, 'data', 'rasc.txt')
 rasc_file = open(rasc_path, 'rU', encoding='utf-8')
 
 rasc_dict = { 'seasons': [] }
@@ -72,12 +72,6 @@ for line in rasc_file:
         rasc_dict['seasons'][season_index][season_title][episode_index]\
             [episode_title].append(track_dict)
         continue
-    if line == 'Title card.':
-        rasc_dict['seasons'][season_index][season_title][episode_index]\
-            [episode_title][track_index]['time'] = '00:00'
-        rasc_dict['seasons'][season_index][season_title][episode_index]\
-            [episode_title][track_index]['scene'] = line
-        continue
     segment_match = re.search(r'^\[(.*)\] \((\d+:\d+)\) (.*)', line)
     if segment_match:
         rasc_dict['seasons'][season_index][season_title][episode_index]\
@@ -99,7 +93,7 @@ for line in rasc_file:
         'Line did not match expected format: {}'.format(line), file=sys.stderr)
     sys.exit(1)
 
-rasc_json = os.path.join(root_dir, 'rasc.json')
+rasc_json = os.path.join(root_dir, 'data', 'rasc.json')
 with open(rasc_json, 'w') as json_file:
     json.dump(rasc_dict, json_file, indent=2)
 rasc_file.close()
