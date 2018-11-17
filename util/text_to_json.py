@@ -72,21 +72,25 @@ for line in rasc_file:
         rasc_dict['seasons'][season_index][season_title][episode_index]\
             [episode_title].append(track_dict)
         continue
-    segment_match = re.search(r'^\[(.*)\] \((\d+:\d+)\) (.*)', line)
+    segment_match = re.search(r'^\[(.*)\] \((\d+:\d+)\) \[(\d+:\d+)\] (.*)', line)
     if segment_match:
         rasc_dict['seasons'][season_index][season_title][episode_index]\
             [episode_title][track_index]['segment'] = segment_match.group(1)
         rasc_dict['seasons'][season_index][season_title][episode_index]\
-            [episode_title][track_index]['time'] = segment_match.group(2)
+            [episode_title][track_index]['dvd_time'] = segment_match.group(2)
         rasc_dict['seasons'][season_index][season_title][episode_index]\
-            [episode_title][track_index]['scene'] = segment_match.group(3)
+            [episode_title][track_index]['vlc_time'] = segment_match.group(3)
+        rasc_dict['seasons'][season_index][season_title][episode_index]\
+            [episode_title][track_index]['scene'] = segment_match.group(4)
         continue
-    scene_match = re.search(r'^\((\d+:\d+)\) (.*)', line)
+    scene_match = re.search(r'^\((\d+:\d+)\) \[(\d+:\d+)\] (.*)', line)
     if scene_match:
         rasc_dict['seasons'][season_index][season_title][episode_index]\
-            [episode_title][track_index]['time'] = scene_match.group(1)
+            [episode_title][track_index]['dvd_time'] = scene_match.group(1)
         rasc_dict['seasons'][season_index][season_title][episode_index]\
-            [episode_title][track_index]['scene'] = scene_match.group(2)
+            [episode_title][track_index]['vlc_time'] = scene_match.group(2)
+        rasc_dict['seasons'][season_index][season_title][episode_index]\
+            [episode_title][track_index]['scene'] = scene_match.group(3)
         continue
     # line does not match patterns
     print(

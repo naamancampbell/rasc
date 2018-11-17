@@ -96,7 +96,7 @@ for season_index, season in enumerate(rasc_json['seasons'], start=1):
                     scene_image = 's' + '%02d' % season_index \
                                 + 'e' + '%02d' % episode_index \
                                 + 't' + '%02d' % track_index
-                    track_start = get_sec(track['time'])
+                    track_start = get_sec(track['vlc_time'])
                     call([vlc_path, vlc_mrl + '#' + str(vlc_title), '--rate=1', '--video-filter=scene', '--vout=dummy', '--start-time=' + str(track_start), '--stop-time=' + str(track_start + 1), '--scene-format=png', '--scene-ratio=24', '--scene-prefix=' + scene_image, '--scene-path=' + thumbs_path, '--scene-replace', 'vlc://quit'])
                     call([vlc_path, vlc_mrl + '#' + str(vlc_title), '--rate=1', '--video-filter=scene', '--vout=dummy', '--start-time=' + str(track_start + 2), '--stop-time=' + str(track_start + 3), '--scene-format=png', '--scene-ratio=24', '--scene-prefix=' + scene_image + 'a', '--scene-path=' + thumbs_path, '--scene-replace', 'vlc://quit'])
                     call([vlc_path, vlc_mrl + '#' + str(vlc_title), '--rate=1', '--video-filter=scene', '--vout=dummy', '--start-time=' + str(track_start + 4), '--stop-time=' + str(track_start + 5), '--scene-format=png', '--scene-ratio=24', '--scene-prefix=' + scene_image + 'b', '--scene-path=' + thumbs_path, '--scene-replace', 'vlc://quit'])
