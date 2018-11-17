@@ -32,6 +32,7 @@ argparser.add_argument('-m', '--vlc-mrl',
 argparser.add_argument('-f', '--first-title',
                         dest='vlc_title',
                         default=2,
+                        type=int,
                         help='First title (in VLC) episodes start from')
 
 argparser.add_argument('-t', '--thumbs-path',
@@ -42,21 +43,25 @@ argparser.add_argument('-t', '--thumbs-path',
 argparser.add_argument('-s', '--season',
                         dest='media_season',
                         default=1,
+                        type=int,
                         help='Season to process on current media')
 
 argparser.add_argument('-S', '--episode-start',
                         dest='episode_start',
                         default=1,
+                        type=int,
                         help='Starting episode to process on current media')
 
 argparser.add_argument('-F', '--episode-finish',
                         dest='episode_end',
                         default=12,
+                        type=int,
                         help='Finishing episode to process on current media')
 
 argparser.add_argument('-e', '--episodes-per-title',
                         dest='eps_per_title',
                         default=2,
+                        type=int,
                         help='Number of episodes per VLC title on current media')
 
 argresults = argparser.parse_args()
@@ -97,6 +102,7 @@ for season_index, season in enumerate(rasc_json['seasons'], start=1):
                                 + 'e' + '%02d' % episode_index \
                                 + 't' + '%02d' % track_index
                     track_start = get_sec(track['vlc_time'])
+                    print(scene_image)
                     call([vlc_path, vlc_mrl + '#' + str(vlc_title), '--rate=1', '--video-filter=scene', '--vout=dummy', '--start-time=' + str(track_start), '--stop-time=' + str(track_start + 1), '--scene-format=png', '--scene-ratio=24', '--scene-prefix=' + scene_image, '--scene-path=' + thumbs_path, '--scene-replace', 'vlc://quit'])
                     call([vlc_path, vlc_mrl + '#' + str(vlc_title), '--rate=1', '--video-filter=scene', '--vout=dummy', '--start-time=' + str(track_start + 2), '--stop-time=' + str(track_start + 3), '--scene-format=png', '--scene-ratio=24', '--scene-prefix=' + scene_image + 'a', '--scene-path=' + thumbs_path, '--scene-replace', 'vlc://quit'])
                     call([vlc_path, vlc_mrl + '#' + str(vlc_title), '--rate=1', '--video-filter=scene', '--vout=dummy', '--start-time=' + str(track_start + 4), '--stop-time=' + str(track_start + 5), '--scene-format=png', '--scene-ratio=24', '--scene-prefix=' + scene_image + 'b', '--scene-path=' + thumbs_path, '--scene-replace', 'vlc://quit'])
