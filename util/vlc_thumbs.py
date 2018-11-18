@@ -87,20 +87,18 @@ def get_sec(time_str):
 with open(rasc_path, 'r') as f:        
     rasc_json = json.load(f)
 
-for season_index, season in enumerate(rasc_json['seasons'], start=1):
-    if season_index == media_season:
-        season_title = list(season.keys())[0]
-        for episode_index, episode in enumerate(season[season_title], start=1):
-            if episode_index in list(range(episode_start, episode_end + 1)):
-                episode_title = list(episode.keys())[0]
-                if eps_per_title == 1 or (episode_index % eps_per_title) != 0:
+for season in rasc_json['seasons']:
+    if season['season'] == media_season:
+        for episode in season['episodes']:
+            if episode['episode'] in list(range(episode_start, episode_end + 1)):
+                if eps_per_title == 1 or (episode['episode'] % eps_per_title) != 0:
                     vlc_title += 1            
-                for track_index, track in enumerate(episode[episode_title], start=1):
+                for track in episode['tracks']:
                     if track.get('no_music'):
                         continue
-                    scene_image = 's' + '%02d' % season_index \
-                                + 'e' + '%02d' % episode_index \
-                                + 't' + '%02d' % track_index
+                    scene_image = 's' + '%02d' % season['season'] \
+                                + 'e' + '%02d' % episode['episode'] \
+                                + 't' + '%02d' % track['track']
                     track_start = get_sec(track['vlc_time'])
                     print(scene_image)
                     call([vlc_path, vlc_mrl + '#' + str(vlc_title), '--rate=1', '--video-filter=scene', '--vout=dummy', '--start-time=' + str(track_start), '--stop-time=' + str(track_start + 1), '--scene-format=png', '--scene-ratio=24', '--scene-prefix=' + scene_image, '--scene-path=' + thumbs_path, '--scene-replace', 'vlc://quit'])

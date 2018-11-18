@@ -1,5 +1,5 @@
 {
     "restructuredtext.confPath": "",
-    "python.pythonPath": "${workspaceFolder}\\venv\\Scripts\\python.exe",
+    "python.pythonPath": "C:\\Python37\\python.exe",
     "python.linting.pylintEnabled": false
 }

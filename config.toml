@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Ren and Stimpy Classical"
+theme = "newsprint"
+paginate = 12
+ignoreFiles = ["rasc.txt"]
+staticDir = ["images"]
+
+
