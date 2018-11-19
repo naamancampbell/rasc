@@ -1,0 +1,24 @@
+<footer>
+	<nav>
+		{{- if .PrevPage -}}
+		<a class="prev" href="{{ .PrevPage.Permalink }}">Prev Season</a>
+		{{- else -}}
+		<span class="prev disable">Prev Season</span>
+		{{- end -}}
+		&nbsp;|&nbsp;
+		{{- if .NextPage -}}
+		<a class="next" href="{{ .NextPage.Permalink }}">Next Season</a>
+		{{- else -}}
+		<span class="next disable">Next Season</span>
+		{{- end -}}
+	</nav>
+	Scene thumbnails source: <br />{{ .Site.Data.rasc.thumbnail_source }}<br /><br />
+	Music catalogue sources:<br />
+	{{ range .Site.Data.rasc.catalogue_sources }}
+		<a href="{{ .url }}" target="_blank">{{ .title }}</a><br />
+	{{ end }}
+	<br />Artist images and music players source: <a href="https://spotify.com" target="_blank">Spotify</a><br/><br />
+	All other content:&nbsp;{{- partialCached "license" . }}
+</footer>
+</body>
+</html>

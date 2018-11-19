@@ -13,11 +13,11 @@
                 <article class="thumb">
                     <div class="imgthumb">
                     <img src="/{{ $scratch.Get "episode_id" }}.png" alt="{{ .scene }}" width="150" />                    
-                    <p>{{ $scratch.Get "episode_id" | upper }} {{ $scratch.Get "episode_title" }}<br />
+                    <p style="direction: ltr;">{{ $scratch.Get "episode_id" | upper }} {{ $scratch.Get "episode_title" }}<br />
                     {{ printf "(%s)" .dvd_time }} {{ .scene }}</p>
                     </div>
                     <div class="prevtext">                    
-                    {{ if ne .artist_image "image_not_found" }}<img src="{{ .artist_image }}" width="80" />{{ end }}{{ .artist }}</h1><br />
+                    {{ if ne .artist_image "no_image_found" }}<img src="{{ .artist_image }}" width="80" />{{ end }}{{ .artist }}</h1><br />
                     <h1><a href="#">{{ .title }}</a>
                     <iframe src="{{ .spotify_track_url }}" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                     </div>                    

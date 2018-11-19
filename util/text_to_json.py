@@ -13,11 +13,29 @@ season_index = -1
 episode_index = -1
 track_index = -1
 previous_blank = False
+catalogues = False
 
 for line in rasc_file:
     line = line.strip()
     if line == '':
         previous_blank = True
+        catalogues = False
+        continue
+    if line == 'Catalogues:':
+        catalogues = True
+        rasc_dict['catalogue_sources'] = []
+        continue
+    thumbnails_match = re.search(r'Thumbnails: (.*)', line)
+    if thumbnails_match:
+        rasc_dict['thumbnail_source'] = thumbnails_match.group(1)
+        continue
+    if catalogues:
+        catalogue_match = re.search(r'(.*) \| (.*)', line)
+        catalogue = {
+            'title': catalogue_match.group(1),
+            'url': catalogue_match.group(2)
+        }
+        rasc_dict['catalogue_sources'].append(catalogue)
         continue
     season_match = re.search(r'Season (\d+)', line)
     if season_match:
