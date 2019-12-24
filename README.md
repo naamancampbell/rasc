@@ -69,3 +69,35 @@ Seasons appear before and after a blank line with the `Season N` format, where N
 **Example:**<br>
 `Season 1`
 
+## Generate JSON file - util/text_to_json.py
+Run from the `util` directory to generate the `rasc.json` file from the source `rasc.txt` file.
+No arguments required.
+
+## Generate thumbnails - util/vlc_thumbs.py
+Using vlc, thumbnails are generated as per the rasc JSON file from the source VLC media (eg. DVD).
+When run from the `util` directory with no arguments, the `vlc_thumbs.py` uses the following defaults:
+
+```bash
+--rasc-json ../data/rasc.json
+--vlc-path 'C:\Program Files\VideoLAN\VLC\vlc.exe'
+--vlc-mrl dvdsimple:///e:/
+--first-title 2
+--thumbs-path C:\vlc_thumbs
+--season 1
+--episode-start 1
+--episode-finish 12
+--episodes-per-title 2
+```
+
+Further details on script arguments can be found via `--help`:
+```bash
+python vlc_thumbs.py --help
+```
+
+Three thumbnails per scene are generated to provide alternative images when undesired captures (blurred, mistimed, etc) are generated.
+The thumbnail directory needs to be manually reviewed after generating thumbnails to delete 2 out of the 3 scene thumbnails.
+Once the undesired thumbnails have been deleted, run the next script to rename all thumbnails.
+
+## Rename thumbnails - util/rename_thumbs.py
+Run from the `util` directory to move the selected thumbnail files to the `rasc/images`
+No arguments required.

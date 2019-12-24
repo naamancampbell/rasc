@@ -94,25 +94,22 @@ for line in rasc_file:
         rasc_dict['seasons'][season_index]['episodes'][episode_index]\
             ['tracks'].append(track_dict)
         continue
-    segment_match = re.search(r'^\[(.*)\] \((\d+:\d+)\) \[(\d+:\d+)\] (.*)', line)
-    if segment_match:
-        rasc_dict['seasons'][season_index]['episodes'][episode_index]\
-            ['tracks'][track_index]['segment'] = segment_match.group(1)
-        rasc_dict['seasons'][season_index]['episodes'][episode_index]\
-            ['tracks'][track_index]['dvd_time'] = segment_match.group(2)
-        rasc_dict['seasons'][season_index]['episodes'][episode_index]\
-            ['tracks'][track_index]['vlc_time'] = segment_match.group(3)
-        rasc_dict['seasons'][season_index]['episodes'][episode_index]\
-            ['tracks'][track_index]['scene'] = segment_match.group(4)
-        continue
-    scene_match = re.search(r'^\((\d+:\d+)\) \[(\d+:\d+)\] (.*)', line)
+    scene_match = re.search(
+        r'^(?:\[(.*)\] )?\((\d+:\d+)\) \[(\d+:\d+)\] (?:\((t\d+c\d+)\) )?(.*)',
+        line)
     if scene_match:
+        if scene_match.group(1):
+            rasc_dict['seasons'][season_index]['episodes'][episode_index]\
+                ['tracks'][track_index]['segment'] = scene_match.group(1)
         rasc_dict['seasons'][season_index]['episodes'][episode_index]\
-            ['tracks'][track_index]['dvd_time'] = scene_match.group(1)
+            ['tracks'][track_index]['dvd_time'] = scene_match.group(2)
         rasc_dict['seasons'][season_index]['episodes'][episode_index]\
-            ['tracks'][track_index]['vlc_time'] = scene_match.group(2)
+            ['tracks'][track_index]['vlc_time'] = scene_match.group(3)
+        if scene_match.group(4):
+            rasc_dict['seasons'][season_index]['episodes'][episode_index]\
+                ['tracks'][track_index]['vlc_location'] = scene_match.group(4)
         rasc_dict['seasons'][season_index]['episodes'][episode_index]\
-            ['tracks'][track_index]['scene'] = scene_match.group(3)
+            ['tracks'][track_index]['scene'] = scene_match.group(5)
         continue
     # line does not match patterns
     print(

@@ -184,19 +184,19 @@ Svën Höek
 Funeral March of a Marionette by Charles Gounod.
 (3:18) [03:51] Plays when Ren is sitting in the chair and Stimpy is on the floor.
 Brahms's Lullaby by Johannes Brahms.
-(3:58) [04:42] Plays when Ren looks at a photo of he and Sven.
+(3:58) [04:24] Plays when Ren looks at a photo of he and Sven.
 Funeral March of a Marionette by Charles Gounod.
 (9:21) [09:21] Plays when Ren is ready to go to work.
 
 Haunted House
 Toccata and Fugue in D-Minor BWV 565 by Johann Sebastian Bach.
-(00:46) [01:00] Title card.
+(00:46) [01:00] (t04c01) Title card.
 Brahms's Lullaby by Johannes Brahms.
-(5:14) [05:05] Plays when Ren and Stimpy are in bed.
+(5:14) [05:05] (t04c01) Plays when Ren and Stimpy are in bed.
 New World Symphony by Antonin Dvorak. (2nd Movement)
-(8:00) [08:08] Plays when the ghost thinks he's a failure.
+(8:00) [08:08] (t04c02) Plays when the ghost thinks he's a failure.
 Funeral March by Frederic Chopin.
-(8:42) [08:43] Plays when the ghost wants to kill himself.
+(8:42) [08:43] (t04c02) Plays when the ghost wants to kill himself.
 
 Mad Dog Hoek
 Washington Post March by John Philip Sousa.

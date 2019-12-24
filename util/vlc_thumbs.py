@@ -1,6 +1,7 @@
 import argparse
 import json
 import os
+from pprint import pprint
 from subprocess import call
 
 util_dir = os.path.dirname(os.path.abspath(__file__))
@@ -21,13 +22,13 @@ argparser.add_argument('-j', '--rasc-json',
 
 argparser.add_argument('-p', '--vlc-path',
                         dest='vlc_path',
-                        default=r'C:\Program Files (x86)\VideoLAN\VLC\vlc.exe',
+                        default=r'C:\Program Files\VideoLAN\VLC\vlc.exe',
                         help='Path to VLC executable/binary')
 
 argparser.add_argument('-m', '--vlc-mrl',
                         dest='vlc_mrl',
-                        default='dvd:///e:/',
-                        help='Path to VLC MRL (media location) - eg. dvd:///e:/')
+                        default='dvdsimple:///e:/',
+                        help='Path to VLC MRL (media location) - eg. dvdsimple:///e:/')
 
 argparser.add_argument('-f', '--first-title',
                         dest='vlc_title',
@@ -64,7 +65,16 @@ argparser.add_argument('-e', '--episodes-per-title',
                         type=int,
                         help='Number of episodes per VLC title on current media')
 
+argparser.add_argument("-v", "--verbose",
+                        dest='verbose',
+                        action="store_true",
+                        help="Verbose output")                                                
+
 argresults = argparser.parse_args()
+verbose = argresults.verbose
+
+if verbose:
+    pprint(argresults.__dict__)
 
 rasc_path = argresults.rasc_path
 vlc_path = argresults.vlc_path
@@ -75,6 +85,9 @@ media_season = argresults.media_season
 episode_start = argresults.episode_start
 episode_end = argresults.episode_end
 eps_per_title = argresults.eps_per_title
+
+if not os.path.exists(vlc_path):
+    raise FileNotFoundError(f'VLC path not found: {vlc_path}')
 
 if not os.path.exists(thumbs_path):
     os.makedirs(thumbs_path)
@@ -101,6 +114,8 @@ for season in rasc_json['seasons']:
                                 + 't' + '%02d' % track['track']
                     track_start = get_sec(track['vlc_time'])
                     print(scene_image)
-                    call([vlc_path, vlc_mrl + '#' + str(vlc_title), '--rate=1', '--video-filter=scene', '--vout=dummy', '--start-time=' + str(track_start), '--stop-time=' + str(track_start + 1), '--scene-format=png', '--scene-ratio=24', '--scene-prefix=' + scene_image, '--scene-path=' + thumbs_path, '--scene-replace', 'vlc://quit'])
-                    call([vlc_path, vlc_mrl + '#' + str(vlc_title), '--rate=1', '--video-filter=scene', '--vout=dummy', '--start-time=' + str(track_start + 2), '--stop-time=' + str(track_start + 3), '--scene-format=png', '--scene-ratio=24', '--scene-prefix=' + scene_image + 'a', '--scene-path=' + thumbs_path, '--scene-replace', 'vlc://quit'])
-                    call([vlc_path, vlc_mrl + '#' + str(vlc_title), '--rate=1', '--video-filter=scene', '--vout=dummy', '--start-time=' + str(track_start + 4), '--stop-time=' + str(track_start + 5), '--scene-format=png', '--scene-ratio=24', '--scene-prefix=' + scene_image + 'b', '--scene-path=' + thumbs_path, '--scene-replace', 'vlc://quit'])
+                    if verbose:
+                        print(vlc_path, vlc_mrl + '#' + str(vlc_title), '--rate=1', '--video-filter=scene', '--start-time=' + str(track_start), '--stop-time=' + str(track_start + 1), '--scene-format=png', '--scene-ratio=24', '--scene-prefix=' + scene_image, '--scene-path=' + thumbs_path, '--scene-replace', 'vlc://quit')
+                    call([vlc_path, vlc_mrl + '#' + str(vlc_title), '--rate=1', '--video-filter=scene', '--start-time=' + str(track_start), '--stop-time=' + str(track_start + 1), '--scene-format=png', '--scene-ratio=24', '--scene-prefix=' + scene_image, '--scene-path=' + thumbs_path, '--scene-replace', 'vlc://quit'])
+                    call([vlc_path, vlc_mrl + '#' + str(vlc_title), '--rate=1', '--video-filter=scene', '--start-time=' + str(track_start + 2), '--stop-time=' + str(track_start + 3), '--scene-format=png', '--scene-ratio=24', '--scene-prefix=' + scene_image + 'a', '--scene-path=' + thumbs_path, '--scene-replace', 'vlc://quit'])
+                    call([vlc_path, vlc_mrl + '#' + str(vlc_title), '--rate=1', '--video-filter=scene', '--start-time=' + str(track_start + 4), '--stop-time=' + str(track_start + 5), '--scene-format=png', '--scene-ratio=24', '--scene-prefix=' + scene_image + 'b', '--scene-path=' + thumbs_path, '--scene-replace', 'vlc://quit'])
