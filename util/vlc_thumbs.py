@@ -1,6 +1,7 @@
 import argparse
 import json
 import os
+import re
 from pprint import pprint
 from subprocess import call
 
@@ -113,9 +114,14 @@ for season in rasc_json['seasons']:
                                 + 'e' + '%02d' % episode['episode'] \
                                 + 't' + '%02d' % track['track']
                     track_start = get_sec(track['vlc_time'])
+                    current_vlc_title = vlc_title
+                    if track.get('vlc_location'):
+                        match = re.search(r'^t(\d+)c(\d+)', track['vlc_location'])                        
+                        vlc_title = '{}:{}'.format(match.group(1), match.group(2)) 
                     print(scene_image)
                     if verbose:
                         print(vlc_path, vlc_mrl + '#' + str(vlc_title), '--rate=1', '--video-filter=scene', '--start-time=' + str(track_start), '--stop-time=' + str(track_start + 1), '--scene-format=png', '--scene-ratio=24', '--scene-prefix=' + scene_image, '--scene-path=' + thumbs_path, '--scene-replace', 'vlc://quit')
                     call([vlc_path, vlc_mrl + '#' + str(vlc_title), '--rate=1', '--video-filter=scene', '--start-time=' + str(track_start), '--stop-time=' + str(track_start + 1), '--scene-format=png', '--scene-ratio=24', '--scene-prefix=' + scene_image, '--scene-path=' + thumbs_path, '--scene-replace', 'vlc://quit'])
                     call([vlc_path, vlc_mrl + '#' + str(vlc_title), '--rate=1', '--video-filter=scene', '--start-time=' + str(track_start + 2), '--stop-time=' + str(track_start + 3), '--scene-format=png', '--scene-ratio=24', '--scene-prefix=' + scene_image + 'a', '--scene-path=' + thumbs_path, '--scene-replace', 'vlc://quit'])
                     call([vlc_path, vlc_mrl + '#' + str(vlc_title), '--rate=1', '--video-filter=scene', '--start-time=' + str(track_start + 4), '--stop-time=' + str(track_start + 5), '--scene-format=png', '--scene-ratio=24', '--scene-prefix=' + scene_image + 'b', '--scene-path=' + thumbs_path, '--scene-replace', 'vlc://quit'])
+                    vlc_title = current_vlc_title

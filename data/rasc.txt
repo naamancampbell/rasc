@@ -210,11 +210,11 @@ D. 112: III. Menuetto: Allegro - Trio by Franz Schubert.
 
 In the Army
 Funeral March by Frederic Chopin.
-(6:21) [06:20] Plays when Ren and Stimpy are forced back into the tear gas chamber.
+(6:21) [06:20] (t05c01) Plays when Ren and Stimpy are forced back into the tear gas chamber.
 Brahms' Lullaby by Johannes Brahms.
-(8:11) [08:11] Plays when Ren and Stimpy are in bed.
+(8:11) [08:11] (t05c02) Plays when Ren and Stimpy are in bed.
 Pomp and Circumstance by Edward Elgar.
-[Ask Dr. Stupid] (13:01) [13:16] Plays throughout segment.
+[Ask Dr. Stupid] (13:01) [13:16] (t05c02) Plays throughout segment.
 
 Big House Blues
 Hallelujah Chorus by George Frideric Handel.
@@ -279,7 +279,7 @@ In the Hall of the Mountain King by Edvard Grieg.
 Spring Song by Felix Mendelssohn.
 (07:37) [07:45] Plays when a charred Ren punches Stimpy.
 Flight of the Bumblebee, The by Nikolai Rimsky-Korsakov.
-(08:34) [08:34] Plays when a mosquito sucks Ren's blood.
+(08:45) [08:45] Plays when a mosquito sucks Ren's blood.
 Morning From Peer Gynt Suite No. 1 by Edvard Grieg.
 (09:11) [09:11] Plays the next morning, after Ren has been bitten by tons of mosquitos.
 Pizzicati (from Sylvia) by Leo Delibes.

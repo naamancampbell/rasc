@@ -73,6 +73,10 @@ Seasons appear before and after a blank line with the `Season N` format, where N
 Run from the `util` directory to generate the `rasc.json` file from the source `rasc.txt` file.
 No arguments required.
 
+## Retrieve Spotify data - util/spotify_data.py
+Run from the `util` directory to update the `rasc.json` file with artist image and track URLs from Spotify.
+No arguments required.  See Prerequisites section of README for environment variable details.
+
 ## Generate thumbnails - util/vlc_thumbs.py
 Using vlc, thumbnails are generated as per the rasc JSON file from the source VLC media (eg. DVD).
 When run from the `util` directory with no arguments, the `vlc_thumbs.py` uses the following defaults:
