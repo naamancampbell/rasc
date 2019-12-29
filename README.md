@@ -75,7 +75,7 @@ No arguments required.
 
 ## Retrieve Spotify data - util/spotify_data.py
 Run from the `util` directory to update the `rasc.json` file with artist image and track URLs from Spotify.
-No arguments required.  See Prerequisites section of README for environment variable details.
+Can be run without arguments or with `--create-playlist "<Playlist Name>"` to generate Spotify playlist.  See Prerequisites section of README for environment variable details.
 
 ## Generate thumbnails - util/vlc_thumbs.py
 Using vlc, thumbnails are generated as per the rasc JSON file from the source VLC media (eg. DVD).
