@@ -1,12 +1,25 @@
+import glob
 import json
 import os
 import spotipy
 import spotipy.util as spotipy_util
 import sys
 
+spotify_dirs = glob.glob('.cache-*')
+for dir in spotify_dirs:
+    try:
+        os.remove(dir)
+    except:
+        print(f'Could not remove Spotify auth cache directory: {dir}')
+
+scopes = ''
+if sys.argv[1] == '--create-playlist':
+    scopes = 'playlist-modify-public playlist-modify-private'
+
 spotify_embed_url = 'https://open.spotify.com/embed/track/'
 spotify_username = os.getenv('SPOTIPY_USERNAME')
-spotify_token = spotipy_util.prompt_for_user_token(spotify_username)
+spotify_token = spotipy_util.prompt_for_user_token(
+    spotify_username, scope=scopes)
 spotify_client = spotipy.Spotify(auth=spotify_token)
 
 util_dir = os.path.dirname(os.path.abspath(__file__))

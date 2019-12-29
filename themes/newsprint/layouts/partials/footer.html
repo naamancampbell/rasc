@@ -15,11 +15,15 @@
 	Scene thumbnails source: <br />
 	<a href="{{ .Site.Data.rasc.thumbnail_source.url }}" target="_blank">
 		{{ .Site.Data.rasc.thumbnail_source.title }}
-	</a><br /><br />
-	Music catalogue sources:<br />
+	</a><br />
+	<br />Music catalogue sources:<br />
 	{{ range .Site.Data.rasc.catalogue_sources }}
 		<a href="{{ .url }}" target="_blank">{{ .title }}</a><br />
 	{{ end }}
+	<br />
+	<a href="{{ .Site.Data.rasc.spotify_playlist }}" target="_blank">
+		Spotify playlist
+	</a><br />	
 	<br />Artist images and music players source: <a href="https://spotify.com" target="_blank">Spotify</a><br/><br />
 	All other content:&nbsp;{{- partialCached "license" . }}
 </footer>

@@ -1,7 +1,7 @@
 {
   "seasons": [
     {
-      "season": 1,      
+      "season": 1,
       "episodes": [
         {
           "episode": 1,
@@ -78,7 +78,7 @@
               "vlc_time": "02:24",
               "scene": "Title card.",
               "artist_image": "https://i.scdn.co/image/4bdf9bc839ae7d30e69f6399ac47c74c1bd62212",
-              "spotify_track_url": "https://open.spotify.com/embed/track/5ONoZEMrJXvCkLZkhYXu3p"
+              "spotify_track_url": "https://open.spotify.com/embed/track/1Ojz92vyPK4fJ5K8RVnV5u"
             },
             {
               "track": 2,
@@ -1114,7 +1114,7 @@
               "vlc_time": "20:10",
               "scene": "Plays when Stimpy is disqualified.",
               "artist_image": "https://i.scdn.co/image/e90a608dd891a720aa7cebe746b5c5fe4f39459f",
-              "spotify_track_url": "https://open.spotify.com/embed/track/6l5WJSFdqUrOiHhXn1DkYv"
+              "spotify_track_url": "https://open.spotify.com/embed/track/0MPPS7RVOyZ0ucb7hjQdw4"
             }
           ]
         },
@@ -1747,5 +1747,6 @@
       "title": "Toonzone - Music of Ren and Stimpy (via archive.org)",
       "url": "https://web.archive.org/web/20101109014427/http://toonzone.net/wiki/index.php/Music_of_Ren_and_Stimpy"
     }
-  ]
+  ],
+  "spotify_playlist": "https://open.spotify.com/playlist/0Pi17T76bYWIor8sLY9cDc?si=vEcWaRMBTdSyzCultxdv7A"  
 }
