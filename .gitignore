@@ -1,3 +1,7 @@
 .cache-*
 .vscode
 images
+node_modules
+package-lock.json
+# Local Netlify folder
+.netlify
