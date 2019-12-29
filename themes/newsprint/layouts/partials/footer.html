@@ -12,7 +12,10 @@
 		<span class="next disable">Next Season</span>
 		{{- end -}}
 	</nav>
-	Scene thumbnails source: <br />{{ .Site.Data.rasc.thumbnail_source }}<br /><br />
+	Scene thumbnails source: <br />
+	<a href="{{ .Site.Data.rasc.thumbnail_source.url }}" target="_blank">
+		{{ .Site.Data.rasc.thumbnail_source.title }}
+	</a><br /><br />
 	Music catalogue sources:<br />
 	{{ range .Site.Data.rasc.catalogue_sources }}
 		<a href="{{ .url }}" target="_blank">{{ .title }}</a><br />

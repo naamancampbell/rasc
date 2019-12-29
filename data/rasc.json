@@ -1,7 +1,7 @@
 {
   "seasons": [
     {
-      "season": 1,
+      "season": 1,      
       "episodes": [
         {
           "episode": 1,
@@ -13,7 +13,9 @@
               "artist": "Franz von Suppe",
               "dvd_time": "01:53",
               "vlc_time": "02:14",
-              "scene": "Title card."
+              "scene": "Title card.",
+              "artist_image": "https://i.scdn.co/image/ac353a559feecfe070fbdc8560b6943d3f15d96c",
+              "spotify_track_url": "https://open.spotify.com/embed/track/3pyYmsQ8IRQTmUy79lSVGa"
             },
             {
               "track": 2,
@@ -21,7 +23,9 @@
               "artist": "Frederic Chopin",
               "dvd_time": "07:00",
               "vlc_time": "07:53",
-              "scene": "Plays in the morning when Ren says, \"Eh, listen, Stimpy, I...\""
+              "scene": "Plays in the morning when Ren says, \"Eh, listen, Stimpy, I...\"",
+              "artist_image": "https://i.scdn.co/image/1611ec1c4390b397f26fce7eb33870834dfa44a1",
+              "spotify_track_url": "https://open.spotify.com/embed/track/5XfmcJMAaifjRrIdLaXVLm"
             }
           ]
         },
@@ -35,7 +39,9 @@
               "artist": "Pyotr Ilyich Tchaikovsky",
               "dvd_time": "17:00",
               "vlc_time": "17:27",
-              "scene": "Plays when Ren turns off the light."
+              "scene": "Plays when Ren turns off the light.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/2XlffzgjhnkHPOTW4ou8gg"
             },
             {
               "track": 2,
@@ -43,7 +49,9 @@
               "artist": "Felix Mendelssohn",
               "dvd_time": "18:00",
               "vlc_time": "18:38",
-              "scene": "Plays when Ren says he'll watch some TV."
+              "scene": "Plays when Ren says he'll watch some TV.",
+              "artist_image": "https://i.scdn.co/image/7f30d9306a73a4233125a3e6ef7680f18b7f6b15",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0Mx9Vg9DLMY27NY59c1UEH"
             },
             {
               "track": 3,
@@ -51,7 +59,9 @@
               "artist": "Pyotr Ilyich Tchaikovsky",
               "dvd_time": "20:36",
               "vlc_time": "20:56",
-              "scene": "Plays when Stimpy returns home."
+              "scene": "Plays when Stimpy returns home.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0MN3erUzrHFyq9dS3lzpoX"
             }
           ]
         },
@@ -66,7 +76,9 @@
               "artist": "Antonio Vivaldi",
               "dvd_time": "02:01",
               "vlc_time": "02:24",
-              "scene": "Title card."
+              "scene": "Title card.",
+              "artist_image": "https://i.scdn.co/image/4bdf9bc839ae7d30e69f6399ac47c74c1bd62212",
+              "spotify_track_url": "https://open.spotify.com/embed/track/5ONoZEMrJXvCkLZkhYXu3p"
             },
             {
               "track": 2,
@@ -75,7 +87,9 @@
               "artist": "Antonin Dvorak",
               "dvd_time": "2:00",
               "vlc_time": "02:40",
-              "scene": "Plays when Ren and Stimpy are praying."
+              "scene": "Plays when Ren and Stimpy are praying.",
+              "artist_image": "https://i.scdn.co/image/9ef8aaf1ff4a3d376f3584c6a671102350d59e70",
+              "spotify_track_url": "https://open.spotify.com/embed/track/6nqHzwOdGIaX57U6VU6kMO"
             },
             {
               "track": 3,
@@ -84,7 +98,9 @@
               "artist": "Leo Delibes",
               "dvd_time": "2:00",
               "vlc_time": "03:03",
-              "scene": "Plays when Ren buttons Stimpy."
+              "scene": "Plays when Ren buttons Stimpy.",
+              "artist_image": "https://i.scdn.co/image/7f782b0b84d7e169ec168cc451ce05bef69e7a4d",
+              "spotify_track_url": "https://open.spotify.com/embed/track/45sBB0vVfJH90TeIMS29mI"
             },
             {
               "track": 4,
@@ -92,7 +108,9 @@
               "artist": "Johannes Brahms",
               "dvd_time": "3:00",
               "vlc_time": "03:23",
-              "scene": "Plays when Stimpy asks if Ren will read him a bedtime story."
+              "scene": "Plays when Stimpy asks if Ren will read him a bedtime story.",
+              "artist_image": "https://i.scdn.co/image/841b4adc1a4e66906d99229aaaec26306d6aed92",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0cmcMGKSmMoxbp1K94SZzF"
             },
             {
               "track": 5,
@@ -100,7 +118,9 @@
               "artist": "Pyotr Ilyich Tchaikovsky",
               "dvd_time": "4:00",
               "vlc_time": "04:19",
-              "scene": "Plays when Stimpy starts reading."
+              "scene": "Plays when Stimpy starts reading.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/2XlffzgjhnkHPOTW4ou8gg"
             },
             {
               "track": 6,
@@ -109,7 +129,9 @@
               "artist": "Antonio Vivaldi",
               "dvd_time": "5:37",
               "vlc_time": "05:40",
-              "scene": "Plays when Friar Chuck is shown."
+              "scene": "Plays when Friar Chuck is shown.",
+              "artist_image": "https://i.scdn.co/image/4bdf9bc839ae7d30e69f6399ac47c74c1bd62212",
+              "spotify_track_url": "https://open.spotify.com/embed/track/2mhQ1rjOhVpgLmTiNab9XU"
             },
             {
               "track": 7,
@@ -117,7 +139,9 @@
               "artist": "Johann Strauss II",
               "dvd_time": "6:00",
               "vlc_time": "06:02",
-              "scene": "Plays when Stimpy runs towards the castle, as well as when he runs back to the village."
+              "scene": "Plays when Stimpy runs towards the castle, as well as when he runs back to the village.",
+              "artist_image": "https://i.scdn.co/image/e25d4dcb20c3ab9fd0e46291d8b09a1224eb379f",
+              "spotify_track_url": "https://open.spotify.com/embed/track/15ifRdwMYcnGFWEXO4aM90"
             },
             {
               "track": 8,
@@ -125,7 +149,9 @@
               "artist": "Johann Sebastian Bach",
               "dvd_time": "6:00",
               "vlc_time": "06:55",
-              "scene": "Plays when Stimpy says, \"Robin Hoek and his men were robbers.\""
+              "scene": "Plays when Stimpy says, \"Robin Hoek and his men were robbers.\"",
+              "artist_image": "https://i.scdn.co/image/53ec9642cf116eca56d88284c40bb1497585e28e",
+              "spotify_track_url": "https://open.spotify.com/embed/track/4EpLMpMIfdwTzzteQFTvhe"
             },
             {
               "track": 9,
@@ -133,7 +159,9 @@
               "artist": "Pyotr Ilyich Tchaikovsky",
               "dvd_time": "9:57",
               "vlc_time": "09:48",
-              "scene": "Plays when Ren climbs Stimpy's nose hair."
+              "scene": "Plays when Ren climbs Stimpy's nose hair.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0MN3erUzrHFyq9dS3lzpoX"
             },
             {
               "track": 10,
@@ -141,7 +169,9 @@
               "artist": "Franz von Suppe",
               "dvd_time": "10:00",
               "vlc_time": "10:23",
-              "scene": "Plays during the duel."
+              "scene": "Plays during the duel.",
+              "artist_image": "https://i.scdn.co/image/ac353a559feecfe070fbdc8560b6943d3f15d96c",
+              "spotify_track_url": "https://open.spotify.com/embed/track/5K4Y4L6xffI9Zd4EbTxiiu"
             },
             {
               "track": 11,
@@ -149,7 +179,9 @@
               "artist": "Igor Tuhmanov",
               "dvd_time": "11:00",
               "vlc_time": "10:50",
-              "scene": "Plays right before Ren wakes up from the dream."
+              "scene": "Plays right before Ren wakes up from the dream.",
+              "artist_image": "no_image_found",
+              "spotify_track_url": "https://open.spotify.com/embed/track/1pNNBBzz7YGsBfuWsDFLTD"
             }
           ]
         },
@@ -163,7 +195,9 @@
               "artist": "Pyotr Ilyich Tchaikovsky",
               "dvd_time": "12:45",
               "vlc_time": "12:46",
-              "scene": "Title card."
+              "scene": "Title card.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/3C4JNyv2NAT72xm0cDKl0v"
             },
             {
               "track": 2,
@@ -171,7 +205,9 @@
               "artist": "Ludwig van Beethoven",
               "dvd_time": "13:00",
               "vlc_time": "12:59",
-              "scene": "Plays as morning is breaking."
+              "scene": "Plays as morning is breaking.",
+              "artist_image": "https://i.scdn.co/image/348252c0e6722a55a05484b052ef010e71ca30ce",
+              "spotify_track_url": "https://open.spotify.com/embed/track/2fWTvHgM9ZuHd8xpQrdAym"
             },
             {
               "track": 3,
@@ -180,7 +216,9 @@
               "artist": "Nikolai Rimsky-Korsakov",
               "dvd_time": "13:42",
               "vlc_time": "14:22",
-              "scene": "(\u201cNow just relax and don\u2019t worry about a thing.\u201d)"
+              "scene": "(\u201cNow just relax and don\u2019t worry about a thing.\u201d)",
+              "artist_image": "https://i.scdn.co/image/3c0912839a8d12bff2726dfe30ee1b851abaa2d4",
+              "spotify_track_url": "https://open.spotify.com/embed/track/1PKx2AJsW0KGbDh3oUbqv9"
             },
             {
               "track": 4,
@@ -188,7 +226,9 @@
               "artist": "Ludwig van Beethoven",
               "dvd_time": "20:55",
               "vlc_time": "20:55",
-              "scene": "Plays as Ren rises up from bed."
+              "scene": "Plays as Ren rises up from bed.",
+              "artist_image": "https://i.scdn.co/image/348252c0e6722a55a05484b052ef010e71ca30ce",
+              "spotify_track_url": "https://open.spotify.com/embed/track/2fWTvHgM9ZuHd8xpQrdAym"
             }
           ]
         },
@@ -203,7 +243,9 @@
               "artist": "Antonin Dvorak",
               "dvd_time": "03:09",
               "vlc_time": "03:09",
-              "scene": "Title card."
+              "scene": "Title card.",
+              "artist_image": "https://i.scdn.co/image/9ef8aaf1ff4a3d376f3584c6a671102350d59e70",
+              "spotify_track_url": "https://open.spotify.com/embed/track/6nqHzwOdGIaX57U6VU6kMO"
             },
             {
               "track": 2,
@@ -211,7 +253,9 @@
               "artist": "Gioachino Rossini",
               "dvd_time": "5:00",
               "vlc_time": "06:20",
-              "scene": "Plays at the start of Ren's bath."
+              "scene": "Plays at the start of Ren's bath.",
+              "artist_image": "https://i.scdn.co/image/bcf75de34e685705401c95b0a0f00fd526d1a791",
+              "spotify_track_url": "https://open.spotify.com/embed/track/2jQcFQbZ2frHA7QkFDFQw1"
             },
             {
               "track": 3,
@@ -219,7 +263,9 @@
               "artist": "Modest Mussorgsky",
               "dvd_time": "10:03",
               "vlc_time": "09:56",
-              "scene": "Plays when Ren describes his job to Stimpy."
+              "scene": "Plays when Ren describes his job to Stimpy.",
+              "artist_image": "https://i.scdn.co/image/e6c99bfcb3d04655f541268cae3efdf7cf35de7e",
+              "spotify_track_url": "https://open.spotify.com/embed/track/1xifHmn10bGRviND5mYEPb"
             }
           ]
         },
@@ -233,7 +279,9 @@
               "artist": "Franz von Suppe",
               "dvd_time": "19:29",
               "vlc_time": "19:26",
-              "scene": "Plays when Stimpy is shocked after Mrs. Pipe says he can chew up Ren."
+              "scene": "Plays when Stimpy is shocked after Mrs. Pipe says he can chew up Ren.",
+              "artist_image": "https://i.scdn.co/image/ac353a559feecfe070fbdc8560b6943d3f15d96c",
+              "spotify_track_url": "https://open.spotify.com/embed/track/5K4Y4L6xffI9Zd4EbTxiiu"
             },
             {
               "track": 2,
@@ -242,7 +290,9 @@
               "segment": "Yak Shaving Day commercial",
               "dvd_time": "22:54",
               "vlc_time": "23:01",
-              "scene": "Plays when the yak is in the bathroom."
+              "scene": "Plays when the yak is in the bathroom.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/3C4JNyv2NAT72xm0cDKl0v"
             }
           ]
         },
@@ -257,7 +307,9 @@
               "segment": "Ask Dr. Stupid",
               "dvd_time": "00:47",
               "vlc_time": "00:48",
-              "scene": "Plays throughout."
+              "scene": "Plays throughout.",
+              "artist_image": "https://i.scdn.co/image/bcf75de34e685705401c95b0a0f00fd526d1a791",
+              "spotify_track_url": "https://open.spotify.com/embed/track/5p4BRlcUzvRpApjjEFAtUq"
             },
             {
               "track": 2,
@@ -266,7 +318,9 @@
               "artist": "Wolfgang Amadeus Mozart",
               "dvd_time": "2:40",
               "vlc_time": "02:39",
-              "scene": "Plays when Ren eats Gritty Kitty Litter."
+              "scene": "Plays when Ren eats Gritty Kitty Litter.",
+              "artist_image": "https://i.scdn.co/image/9203daa762a94ec40166acadb2354affdcff3fa3",
+              "spotify_track_url": "https://open.spotify.com/embed/track/2LTuXqK8RVXyWLDfHlVCtQ"
             },
             {
               "track": 3,
@@ -274,7 +328,9 @@
               "artist": "Johann Strauss II",
               "dvd_time": "5:08",
               "vlc_time": "05:07",
-              "scene": "Plays when Stimpy runs down the stairs and slides up the pole."
+              "scene": "Plays when Stimpy runs down the stairs and slides up the pole.",
+              "artist_image": "https://i.scdn.co/image/e25d4dcb20c3ab9fd0e46291d8b09a1224eb379f",
+              "spotify_track_url": "https://open.spotify.com/embed/track/15ifRdwMYcnGFWEXO4aM90"
             },
             {
               "track": 4,
@@ -283,7 +339,9 @@
               "artist": "Gioachino Rossini",
               "dvd_time": "5:52",
               "vlc_time": "05:50",
-              "scene": "Plays when the fire truck drives to the burning building."
+              "scene": "Plays when the fire truck drives to the burning building.",
+              "artist_image": "https://i.scdn.co/image/bcf75de34e685705401c95b0a0f00fd526d1a791",
+              "spotify_track_url": "https://open.spotify.com/embed/track/3Wwba621okL6wwGn6KMzre"
             },
             {
               "track": 5,
@@ -291,7 +349,9 @@
               "artist": "Pyotr Ilyich Tchaikovsky",
               "dvd_time": "6:47",
               "vlc_time": "06:48",
-              "scene": "Plays when Mr. Horse drops."
+              "scene": "Plays when Mr. Horse drops.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0MN3erUzrHFyq9dS3lzpoX"
             },
             {
               "track": 6,
@@ -300,7 +360,9 @@
               "segment": "Log for Girls commercial",
               "dvd_time": "11:20",
               "vlc_time": "11:23",
-              "scene": "Plays when Log for Girls is shown."
+              "scene": "Plays when Log for Girls is shown.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/2XlffzgjhnkHPOTW4ou8gg"
             }
           ]
         },
@@ -315,7 +377,9 @@
               "artist": "Antonin Dvorak",
               "dvd_time": "12:24",
               "vlc_time": "12:19",
-              "scene": "Plays when Ren and Stimpy are praying."
+              "scene": "Plays when Ren and Stimpy are praying.",
+              "artist_image": "https://i.scdn.co/image/9ef8aaf1ff4a3d376f3584c6a671102350d59e70",
+              "spotify_track_url": "https://open.spotify.com/embed/track/6nqHzwOdGIaX57U6VU6kMO"
             },
             {
               "track": 2,
@@ -324,7 +388,9 @@
               "artist": "Leo Delibes",
               "dvd_time": "12:53",
               "vlc_time": "12:49",
-              "scene": "Plays when Ren buttons Stimpy."
+              "scene": "Plays when Ren buttons Stimpy.",
+              "artist_image": "https://i.scdn.co/image/7f782b0b84d7e169ec168cc451ce05bef69e7a4d",
+              "spotify_track_url": "https://open.spotify.com/embed/track/45sBB0vVfJH90TeIMS29mI"
             },
             {
               "track": 3,
@@ -332,7 +398,9 @@
               "artist": "Johannes Brahms",
               "dvd_time": "13:04",
               "vlc_time": "13:01",
-              "scene": "Plays when Stimpy asks if Ren will read him a bedtime story."
+              "scene": "Plays when Stimpy asks if Ren will read him a bedtime story.",
+              "artist_image": "https://i.scdn.co/image/841b4adc1a4e66906d99229aaaec26306d6aed92",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0cmcMGKSmMoxbp1K94SZzF"
             },
             {
               "track": 4,
@@ -340,7 +408,9 @@
               "artist": "Johann Strauss",
               "dvd_time": "14:20",
               "vlc_time": "14:13",
-              "scene": "Plays when the story begins."
+              "scene": "Plays when the story begins.",
+              "artist_image": "https://i.scdn.co/image/0498d7725672ede8b08357f4e913978215fd37c7",
+              "spotify_track_url": "https://open.spotify.com/embed/track/1kUcEGmhKqZlpNX0VVb0dF"
             },
             {
               "track": 5,
@@ -348,7 +418,9 @@
               "artist": "Claude Debussy",
               "dvd_time": "15:25",
               "vlc_time": "15:23",
-              "scene": "Plays when Stimpy is sitting alone, crying."
+              "scene": "Plays when Stimpy is sitting alone, crying.",
+              "artist_image": "https://i.scdn.co/image/d9bf00a7a314028df902da1d026a9844a3365d61",
+              "spotify_track_url": "https://open.spotify.com/embed/track/5u5aVJKjSMJr4zesMPz7bL"
             },
             {
               "track": 6,
@@ -356,7 +428,9 @@
               "artist": "Pyotr Ilyich Tchaikovsky",
               "dvd_time": "18:09",
               "vlc_time": "18:11",
-              "scene": "Plays when Ren first appears in the story."
+              "scene": "Plays when Ren first appears in the story.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/13rYowrPC2dk2Jhavquy1F"
             },
             {
               "track": 7,
@@ -364,7 +438,9 @@
               "artist": "Robert Schumann",
               "dvd_time": "18:54",
               "vlc_time": "18:48",
-              "scene": "Plays when Ren wakes up from Stimpy's crying."
+              "scene": "Plays when Ren wakes up from Stimpy's crying.",
+              "artist_image": "https://i.scdn.co/image/f6e54b847e866ea410cfa19af2e270e6fe414df0",
+              "spotify_track_url": "https://open.spotify.com/embed/track/2Ti42qdxzcLT79tw1EYCqy"
             },
             {
               "track": 8,
@@ -372,7 +448,9 @@
               "artist": "Claude Debussy",
               "dvd_time": "19:00",
               "vlc_time": "19:01",
-              "scene": "Plays when Stimpy is crying as his tears fill up the well."
+              "scene": "Plays when Stimpy is crying as his tears fill up the well.",
+              "artist_image": "https://i.scdn.co/image/d9bf00a7a314028df902da1d026a9844a3365d61",
+              "spotify_track_url": "https://open.spotify.com/embed/track/5u5aVJKjSMJr4zesMPz7bL"
             },
             {
               "track": 9,
@@ -381,7 +459,9 @@
               "artist": "Leo Delibes",
               "dvd_time": "21:34",
               "vlc_time": "21:44",
-              "scene": "Plays at ending of the episode."
+              "scene": "Plays at ending of the episode.",
+              "artist_image": "https://i.scdn.co/image/7f782b0b84d7e169ec168cc451ce05bef69e7a4d",
+              "spotify_track_url": "https://open.spotify.com/embed/track/45sBB0vVfJH90TeIMS29mI"
             }
           ]
         },
@@ -395,7 +475,9 @@
               "artist": "Pyotr Ilyich Tchaikovsky",
               "dvd_time": "3:55",
               "vlc_time": "04:07",
-              "scene": "Plays when Stimpy pulls out the space cadet handbook."
+              "scene": "Plays when Stimpy pulls out the space cadet handbook.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/6l99J1A1Ob0KjYffIRQG2r"
             },
             {
               "track": 2,
@@ -403,7 +485,9 @@
               "artist": "Pyotr Ilyich Tchaikovsky",
               "dvd_time": "5:25",
               "vlc_time": "05:33",
-              "scene": "Plays when Ren asks what they're going to do about food."
+              "scene": "Plays when Ren asks what they're going to do about food.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/6l99J1A1Ob0KjYffIRQG2r"
             },
             {
               "track": 3,
@@ -412,7 +496,9 @@
               "artist": "Edvard Grieg",
               "dvd_time": "6:50",
               "vlc_time": "07:04",
-              "scene": "Plays during the space cabbage scene."
+              "scene": "Plays during the space cabbage scene.",
+              "artist_image": "https://i.scdn.co/image/9dc1d187b3c797c0f36258faacbc1e723e7c2858",
+              "spotify_track_url": "https://open.spotify.com/embed/track/4v9XM495fndwxgLJtKZPdt"
             },
             {
               "track": 4,
@@ -420,7 +506,9 @@
               "artist": "Amilcare Ponchielli",
               "dvd_time": "7:35",
               "vlc_time": "07:20",
-              "scene": "Plays when Ren slaps Stimpy, right before the tent scene."
+              "scene": "Plays when Ren slaps Stimpy, right before the tent scene.",
+              "artist_image": "https://i.scdn.co/image/cdb475dff7504a89026a2b6e257733a60f822b8b",
+              "spotify_track_url": "https://open.spotify.com/embed/track/6mmbWSbU5FElQOocyktyUZ"
             },
             {
               "track": 5,
@@ -429,7 +517,9 @@
               "artist": "Nikolai Rimsky-Korsakov",
               "dvd_time": "7:45",
               "vlc_time": "07:31",
-              "scene": "Plays when Ren and Stimpy are first in the tent."
+              "scene": "Plays when Ren and Stimpy are first in the tent.",
+              "artist_image": "https://i.scdn.co/image/3c0912839a8d12bff2726dfe30ee1b851abaa2d4",
+              "spotify_track_url": "https://open.spotify.com/embed/track/1PKx2AJsW0KGbDh3oUbqv9"
             },
             {
               "track": 6,
@@ -438,7 +528,9 @@
               "artist": "Sergei Prokofiev",
               "dvd_time": "8:46",
               "vlc_time": "08:19",
-              "scene": "Plays when Ren hits his head on the moon."
+              "scene": "Plays when Ren hits his head on the moon.",
+              "artist_image": "https://i.scdn.co/image/18af66959eb66c7e5c63250fd47520aebbba16a3",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0wnXJy6kkLgLpcbFGnAXBI"
             },
             {
               "track": 7,
@@ -446,7 +538,9 @@
               "artist": "Igor Tuhmanov",
               "dvd_time": "8:58",
               "vlc_time": "08:30",
-              "scene": "Plays when Stimpy is tied up."
+              "scene": "Plays when Stimpy is tied up.",
+              "artist_image": "no_image_found",
+              "spotify_track_url": "https://open.spotify.com/embed/track/1pNNBBzz7YGsBfuWsDFLTD"
             },
             {
               "track": 8,
@@ -455,7 +549,9 @@
               "segment": "Ask Dr. Stupid",
               "dvd_time": "12:34",
               "vlc_time": "11:54",
-              "scene": "Plays as Stimpy rises from the bath."
+              "scene": "Plays as Stimpy rises from the bath.",
+              "artist_image": "https://i.scdn.co/image/a0bbac937bcd54681292cc2acf43a1524d1643c9",
+              "spotify_track_url": "https://open.spotify.com/embed/track/3DsF1AWTgtwsS1mliUTRr1"
             }
           ]
         },
@@ -469,7 +565,9 @@
               "artist": "Pyotr Ilyich Tchaikovsky",
               "dvd_time": "17:30",
               "vlc_time": "17:32",
-              "scene": "Plays when the baby Stimpys hatch."
+              "scene": "Plays when the baby Stimpys hatch.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/2XlffzgjhnkHPOTW4ou8gg"
             },
             {
               "track": 2,
@@ -478,7 +576,9 @@
               "artist": "Johannes Brahms",
               "dvd_time": "23:10",
               "vlc_time": "23:26",
-              "scene": "Plays when the lizard Ren walks."
+              "scene": "Plays when the lizard Ren walks.",
+              "artist_image": "https://i.scdn.co/image/841b4adc1a4e66906d99229aaaec26306d6aed92",
+              "spotify_track_url": "https://open.spotify.com/embed/track/5CyttQ7GrU1Z9SDShyhJyy"
             },
             {
               "track": 3,
@@ -487,7 +587,9 @@
               "segment": "Log for Girls commercial",
               "dvd_time": "24:23",
               "vlc_time": "24:37",
-              "scene": "Plays when Log for Girls is shown."
+              "scene": "Plays when Log for Girls is shown.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/2XlffzgjhnkHPOTW4ou8gg"
             }
           ]
         },
@@ -501,7 +603,9 @@
               "artist": "Gioachino Rossini",
               "dvd_time": "3:04",
               "vlc_time": "03:00",
-              "scene": "Plays when Ren says \"Pull yourself together, misters!\""
+              "scene": "Plays when Ren says \"Pull yourself together, misters!\"",
+              "artist_image": "https://i.scdn.co/image/bcf75de34e685705401c95b0a0f00fd526d1a791",
+              "spotify_track_url": "https://open.spotify.com/embed/track/5p4BRlcUzvRpApjjEFAtUq"
             },
             {
               "track": 2,
@@ -510,7 +614,9 @@
               "artist": "Sergei Prokofiev",
               "dvd_time": "6:14",
               "vlc_time": "06:22",
-              "scene": "Plays when Stimpy says they need to leave."
+              "scene": "Plays when Stimpy says they need to leave.",
+              "artist_image": "https://i.scdn.co/image/18af66959eb66c7e5c63250fd47520aebbba16a3",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0wnXJy6kkLgLpcbFGnAXBI"
             }
           ]
         },
@@ -525,7 +631,9 @@
               "artist": "Antonin Dvorak",
               "dvd_time": "10:19",
               "vlc_time": "10:21",
-              "scene": "Title card."
+              "scene": "Title card.",
+              "artist_image": "https://i.scdn.co/image/9ef8aaf1ff4a3d376f3584c6a671102350d59e70",
+              "spotify_track_url": "https://open.spotify.com/embed/track/6nqHzwOdGIaX57U6VU6kMO"
             },
             {
               "track": 2,
@@ -533,7 +641,9 @@
               "artist": "Amilcare Ponchielli",
               "dvd_time": "10:40",
               "vlc_time": "10:37",
-              "scene": "Plays when Stimpy asks Ren to try out his inventions."
+              "scene": "Plays when Stimpy asks Ren to try out his inventions.",
+              "artist_image": "https://i.scdn.co/image/cdb475dff7504a89026a2b6e257733a60f822b8b",
+              "spotify_track_url": "https://open.spotify.com/embed/track/6mmbWSbU5FElQOocyktyUZ"
             },
             {
               "track": 3,
@@ -541,7 +651,9 @@
               "artist": "Pyotr Ilyich Tchaikovsky",
               "dvd_time": "12:19",
               "vlc_time": "12:15",
-              "scene": "Plays when Stimpy introduces Stay-Put Socks."
+              "scene": "Plays when Stimpy introduces Stay-Put Socks.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/3C4JNyv2NAT72xm0cDKl0v"
             },
             {
               "track": 4,
@@ -550,7 +662,9 @@
               "artist": "Ludwig van Beethoven",
               "dvd_time": "14:04",
               "vlc_time": "14:06",
-              "scene": "Plays when Stimpy is taking off his goggles."
+              "scene": "Plays when Stimpy is taking off his goggles.",
+              "artist_image": "https://i.scdn.co/image/348252c0e6722a55a05484b052ef010e71ca30ce",
+              "spotify_track_url": "https://open.spotify.com/embed/track/2fWTvHgM9ZuHd8xpQrdAym"
             },
             {
               "track": 5,
@@ -558,7 +672,9 @@
               "artist": "Amilcare Ponchielli",
               "dvd_time": "16:00",
               "vlc_time": "16:18",
-              "scene": "Plays when Stimpy asks, \"Are you feeling any better?\""
+              "scene": "Plays when Stimpy asks, \"Are you feeling any better?\"",
+              "artist_image": "https://i.scdn.co/image/cdb475dff7504a89026a2b6e257733a60f822b8b",
+              "spotify_track_url": "https://open.spotify.com/embed/track/6mmbWSbU5FElQOocyktyUZ"
             },
             {
               "track": 6,
@@ -566,7 +682,9 @@
               "artist": "Modest Mussorgsky",
               "dvd_time": "16:35",
               "vlc_time": "16:36",
-              "scene": "Plays when the Happy Helmet is first put on Ren."
+              "scene": "Plays when the Happy Helmet is first put on Ren.",
+              "artist_image": "https://i.scdn.co/image/e6c99bfcb3d04655f541268cae3efdf7cf35de7e",
+              "spotify_track_url": "https://open.spotify.com/embed/track/1xifHmn10bGRviND5mYEPb"
             },
             {
               "track": 7,
@@ -574,7 +692,9 @@
               "artist": "Nikolai Rimsky-Korsakov",
               "dvd_time": "17:02",
               "vlc_time": "16:56",
-              "scene": "Plays when the Happy Helmet starts to take effect."
+              "scene": "Plays when the Happy Helmet starts to take effect.",
+              "artist_image": "https://i.scdn.co/image/3c0912839a8d12bff2726dfe30ee1b851abaa2d4",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0nF5aQoLs2YtbWwClXvumL"
             },
             {
               "track": 8,
@@ -583,7 +703,9 @@
               "artist": "Ludwig van Beethoven",
               "dvd_time": "22:18",
               "vlc_time": "22:49",
-              "scene": "Plays when Ren shouts, \"I've never been more angry in my entire life!!!\""
+              "scene": "Plays when Ren shouts, \"I've never been more angry in my entire life!!!\"",
+              "artist_image": "https://i.scdn.co/image/348252c0e6722a55a05484b052ef010e71ca30ce",
+              "spotify_track_url": "https://open.spotify.com/embed/track/2fWTvHgM9ZuHd8xpQrdAym"
             },
             {
               "track": 9,
@@ -591,7 +713,9 @@
               "artist": "Amilcare Ponchielli",
               "dvd_time": "22:30",
               "vlc_time": "23:01",
-              "scene": "Plays when Ren thanks Stimpy for making him feel angry."
+              "scene": "Plays when Ren thanks Stimpy for making him feel angry.",
+              "artist_image": "https://i.scdn.co/image/cdb475dff7504a89026a2b6e257733a60f822b8b",
+              "spotify_track_url": "https://open.spotify.com/embed/track/6mmbWSbU5FElQOocyktyUZ"
             },
             {
               "track": 10,
@@ -600,7 +724,9 @@
               "segment": "Ask Dr. Stupid",
               "dvd_time": "22:44",
               "vlc_time": "23:15",
-              "scene": "Plays throughout segment."
+              "scene": "Plays throughout segment.",
+              "artist_image": "https://i.scdn.co/image/a0bbac937bcd54681292cc2acf43a1524d1643c9",
+              "spotify_track_url": "https://open.spotify.com/embed/track/3DsF1AWTgtwsS1mliUTRr1"
             }
           ]
         }
@@ -619,7 +745,9 @@
               "artist": "Johann Strauss II",
               "dvd_time": "00:46",
               "vlc_time": "00:55",
-              "scene": "Title card."
+              "scene": "Title card.",
+              "artist_image": "https://i.scdn.co/image/e25d4dcb20c3ab9fd0e46291d8b09a1224eb379f",
+              "spotify_track_url": "https://open.spotify.com/embed/track/3QwpRHf9kBQ0Bu9vGZVjQh"
             },
             {
               "track": 2,
@@ -627,7 +755,9 @@
               "artist": "Johannes Brahms",
               "dvd_time": "2:25",
               "vlc_time": "02:31",
-              "scene": "Plays when Ren is sleeping, right before his tooth starts to hurt."
+              "scene": "Plays when Ren is sleeping, right before his tooth starts to hurt.",
+              "artist_image": "https://i.scdn.co/image/841b4adc1a4e66906d99229aaaec26306d6aed92",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0cmcMGKSmMoxbp1K94SZzF"
             },
             {
               "track": 3,
@@ -636,7 +766,9 @@
               "artist": "Gioachino Rossini",
               "dvd_time": "4:42",
               "vlc_time": "04:45",
-              "scene": "Plays at morning, right before we see Ren has ground all his teeth up."
+              "scene": "Plays at morning, right before we see Ren has ground all his teeth up.",
+              "artist_image": "https://i.scdn.co/image/bcf75de34e685705401c95b0a0f00fd526d1a791",
+              "spotify_track_url": "https://open.spotify.com/embed/track/3Wwba621okL6wwGn6KMzre"
             },
             {
               "track": 4,
@@ -645,7 +777,9 @@
               "artist": "Edvard Grieg",
               "dvd_time": "7:43",
               "vlc_time": "07:45",
-              "scene": "Plays when Ren pulls out his nerve endings."
+              "scene": "Plays when Ren pulls out his nerve endings.",
+              "artist_image": "https://i.scdn.co/image/9dc1d187b3c797c0f36258faacbc1e723e7c2858",
+              "spotify_track_url": "https://open.spotify.com/embed/track/4v9XM495fndwxgLJtKZPdt"
             },
             {
               "track": 5,
@@ -653,7 +787,9 @@
               "artist": "Pyotr Ilyich Tchaikovsky",
               "dvd_time": "8:12",
               "vlc_time": "08:11",
-              "scene": "Plays when the Nerve Endings Fairy appears."
+              "scene": "Plays when the Nerve Endings Fairy appears.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/3C4JNyv2NAT72xm0cDKl0v"
             },
             {
               "track": 6,
@@ -661,7 +797,9 @@
               "artist": "Pyotr Ilyich Tchaikovsky",
               "dvd_time": "10:48",
               "vlc_time": "10:32",
-              "scene": "Plays when Ren is smiling with his big tooth."
+              "scene": "Plays when Ren is smiling with his big tooth.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/3C4JNyv2NAT72xm0cDKl0v"
             }
           ]
         },
@@ -676,7 +814,9 @@
               "artist": "Richard Strauss",
               "dvd_time": "12:25",
               "vlc_time": "12:26",
-              "scene": "Title card."
+              "scene": "Title card.",
+              "artist_image": "https://i.scdn.co/image/66ae9fa0a12aacbc5106b5998bb53ea7038b337d",
+              "spotify_track_url": "https://open.spotify.com/embed/track/08mB0o40Ok1WD7fih3XgP6"
             },
             {
               "track": 2,
@@ -685,7 +825,9 @@
               "artist": "Camille Saint-Saens",
               "dvd_time": "15:02",
               "vlc_time": "15:09",
-              "scene": "Plays when the fire chief says, \"I'm sorry. I thought you were a... circus midget!\"."
+              "scene": "Plays when the fire chief says, \"I'm sorry. I thought you were a... circus midget!\".",
+              "artist_image": "https://i.scdn.co/image/8f678a5306adb0c8d446a20b1bf524ea21220e8a",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0jOnZhF75V68VsBObWx2XO"
             },
             {
               "track": 3,
@@ -694,7 +836,9 @@
               "artist": "Camille Saint-Saens",
               "dvd_time": "16:00",
               "vlc_time": "16:01",
-              "scene": "Plays when the camera pans up Mr. Horse."
+              "scene": "Plays when the camera pans up Mr. Horse.",
+              "artist_image": "https://i.scdn.co/image/8f678a5306adb0c8d446a20b1bf524ea21220e8a",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0jOnZhF75V68VsBObWx2XO"
             },
             {
               "track": 4,
@@ -702,7 +846,9 @@
               "artist": "Charles Gounod",
               "dvd_time": "17:01",
               "vlc_time": "17:04",
-              "scene": "Plays when Mr. Horse says, \"Oh! It IS a nipple!\""
+              "scene": "Plays when Mr. Horse says, \"Oh! It IS a nipple!\"",
+              "artist_image": "https://i.scdn.co/image/640328231ab24f1ce0e19f9c873bb1fdd09239e4",
+              "spotify_track_url": "https://open.spotify.com/embed/track/5aS4oXJsJX2YVBlvqj46l7"
             }
           ]
         },
@@ -716,7 +862,9 @@
               "artist": "Charles Gounod",
               "dvd_time": "3:18",
               "vlc_time": "03:51",
-              "scene": "Plays when Ren is sitting in the chair and Stimpy is on the floor."
+              "scene": "Plays when Ren is sitting in the chair and Stimpy is on the floor.",
+              "artist_image": "https://i.scdn.co/image/640328231ab24f1ce0e19f9c873bb1fdd09239e4",
+              "spotify_track_url": "https://open.spotify.com/embed/track/5aS4oXJsJX2YVBlvqj46l7"
             },
             {
               "track": 2,
@@ -724,7 +872,9 @@
               "artist": "Johannes Brahms",
               "dvd_time": "3:58",
               "vlc_time": "04:24",
-              "scene": "Plays when Ren looks at a photo of he and Sven."
+              "scene": "Plays when Ren looks at a photo of he and Sven.",
+              "artist_image": "https://i.scdn.co/image/841b4adc1a4e66906d99229aaaec26306d6aed92",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0cmcMGKSmMoxbp1K94SZzF"
             },
             {
               "track": 3,
@@ -732,7 +882,9 @@
               "artist": "Charles Gounod",
               "dvd_time": "9:21",
               "vlc_time": "09:21",
-              "scene": "Plays when Ren is ready to go to work."
+              "scene": "Plays when Ren is ready to go to work.",
+              "artist_image": "https://i.scdn.co/image/640328231ab24f1ce0e19f9c873bb1fdd09239e4",
+              "spotify_track_url": "https://open.spotify.com/embed/track/5aS4oXJsJX2YVBlvqj46l7"
             }
           ]
         },
@@ -747,7 +899,9 @@
               "dvd_time": "00:46",
               "vlc_time": "01:00",
               "vlc_location": "t04c01",
-              "scene": "Title card."
+              "scene": "Title card.",
+              "artist_image": "https://i.scdn.co/image/53ec9642cf116eca56d88284c40bb1497585e28e",
+              "spotify_track_url": "https://open.spotify.com/embed/track/6QZSYq9kcWTrAtARXBHKkw"
             },
             {
               "track": 2,
@@ -756,7 +910,9 @@
               "dvd_time": "5:14",
               "vlc_time": "05:05",
               "vlc_location": "t04c01",
-              "scene": "Plays when Ren and Stimpy are in bed."
+              "scene": "Plays when Ren and Stimpy are in bed.",
+              "artist_image": "https://i.scdn.co/image/841b4adc1a4e66906d99229aaaec26306d6aed92",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0cmcMGKSmMoxbp1K94SZzF"
             },
             {
               "track": 3,
@@ -766,7 +922,9 @@
               "dvd_time": "8:00",
               "vlc_time": "08:08",
               "vlc_location": "t04c02",
-              "scene": "Plays when the ghost thinks he's a failure."
+              "scene": "Plays when the ghost thinks he's a failure.",
+              "artist_image": "https://i.scdn.co/image/9ef8aaf1ff4a3d376f3584c6a671102350d59e70",
+              "spotify_track_url": "https://open.spotify.com/embed/track/6nqHzwOdGIaX57U6VU6kMO"
             },
             {
               "track": 4,
@@ -775,7 +933,9 @@
               "dvd_time": "8:42",
               "vlc_time": "08:43",
               "vlc_location": "t04c02",
-              "scene": "Plays when the ghost wants to kill himself."
+              "scene": "Plays when the ghost wants to kill himself.",
+              "artist_image": "https://i.scdn.co/image/1611ec1c4390b397f26fce7eb33870834dfa44a1",
+              "spotify_track_url": "https://open.spotify.com/embed/track/6DZ5SxHXxtD1ezar5AqFKy"
             }
           ]
         },
@@ -789,7 +949,9 @@
               "artist": "John Philip Sousa",
               "dvd_time": "09:52",
               "vlc_time": "09:51",
-              "scene": "Title card."
+              "scene": "Title card.",
+              "artist_image": "https://i.scdn.co/image/9ac9f4998dff3e10d44b64fef5aa4a75841576e1",
+              "spotify_track_url": "https://open.spotify.com/embed/track/4oUsuukFq9dNKRljJbyj4a"
             },
             {
               "track": 2,
@@ -797,7 +959,9 @@
               "artist": "Georges Bizet",
               "dvd_time": "11:27",
               "vlc_time": "11:29",
-              "scene": "Plays when \"Let me at 'em!\" is said."
+              "scene": "Plays when \"Let me at 'em!\" is said.",
+              "artist_image": "https://i.scdn.co/image/9e96d69df3601013cbbcc5b68b6d9e73df7155b8",
+              "spotify_track_url": "https://open.spotify.com/embed/track/5mQRd9SasGNZJE2I60Glbo"
             },
             {
               "track": 3,
@@ -805,7 +969,9 @@
               "artist": "Johannes Brahms",
               "dvd_time": "12:19",
               "vlc_time": "12:26",
-              "scene": "Plays when the sleeper hold is applied."
+              "scene": "Plays when the sleeper hold is applied.",
+              "artist_image": "https://i.scdn.co/image/841b4adc1a4e66906d99229aaaec26306d6aed92",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0cmcMGKSmMoxbp1K94SZzF"
             },
             {
               "track": 4,
@@ -813,7 +979,9 @@
               "artist": "Franz Schubert",
               "dvd_time": "16:15",
               "vlc_time": "16:16",
-              "scene": "Plays when Ren is reading a book."
+              "scene": "Plays when Ren is reading a book.",
+              "artist_image": "https://i.scdn.co/image/b2fb7dbe6300466d49d81501828cc89a062d411d",
+              "spotify_track_url": "https://open.spotify.com/embed/track/1kKESki7VaYQjFnAWIPsPW"
             }
           ]
         },
@@ -828,7 +996,9 @@
               "dvd_time": "6:21",
               "vlc_time": "06:20",
               "vlc_location": "t05c01",
-              "scene": "Plays when Ren and Stimpy are forced back into the tear gas chamber."
+              "scene": "Plays when Ren and Stimpy are forced back into the tear gas chamber.",
+              "artist_image": "https://i.scdn.co/image/1611ec1c4390b397f26fce7eb33870834dfa44a1",
+              "spotify_track_url": "https://open.spotify.com/embed/track/6DZ5SxHXxtD1ezar5AqFKy"
             },
             {
               "track": 2,
@@ -837,7 +1007,9 @@
               "dvd_time": "8:11",
               "vlc_time": "08:11",
               "vlc_location": "t05c02",
-              "scene": "Plays when Ren and Stimpy are in bed."
+              "scene": "Plays when Ren and Stimpy are in bed.",
+              "artist_image": "https://i.scdn.co/image/841b4adc1a4e66906d99229aaaec26306d6aed92",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0cmcMGKSmMoxbp1K94SZzF"
             },
             {
               "track": 3,
@@ -847,7 +1019,9 @@
               "dvd_time": "13:01",
               "vlc_time": "13:16",
               "vlc_location": "t05c02",
-              "scene": "Plays throughout segment."
+              "scene": "Plays throughout segment.",
+              "artist_image": "https://i.scdn.co/image/a0bbac937bcd54681292cc2acf43a1524d1643c9",
+              "spotify_track_url": "https://open.spotify.com/embed/track/3DsF1AWTgtwsS1mliUTRr1"
             }
           ]
         },
@@ -861,7 +1035,9 @@
               "artist": "George Frideric Handel",
               "dvd_time": "16:43",
               "vlc_time": "16:40",
-              "scene": "Plays when the sun is shining."
+              "scene": "Plays when the sun is shining.",
+              "artist_image": "https://i.scdn.co/image/28e3224e9ba32cc880794fc6192b1836b1bcb09a",
+              "spotify_track_url": "https://open.spotify.com/embed/track/5xR3eB6q8B3asTIJ0REzIy"
             },
             {
               "track": 2,
@@ -870,7 +1046,9 @@
               "artist": "Alexander Borodin",
               "dvd_time": "20:32",
               "vlc_time": "20:46",
-              "scene": "Plays when Stimpy waves goodbye to Ren."
+              "scene": "Plays when Stimpy waves goodbye to Ren.",
+              "artist_image": "https://i.scdn.co/image/c2006a4b631a7a40acd7dd7652dbf02d45839f60",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0PlTjNRzj6MkPfaLHNeZLZ"
             },
             {
               "track": 3,
@@ -879,7 +1057,9 @@
               "segment": "Log for Girls commercial",
               "dvd_time": "22:02",
               "vlc_time": "22:15",
-              "scene": "Plays when Log for Girls is shown."
+              "scene": "Plays when Log for Girls is shown.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/2XlffzgjhnkHPOTW4ou8gg"
             }
           ]
         },
@@ -902,7 +1082,9 @@
               "artist": "Georges Bizet",
               "dvd_time": "11:08",
               "vlc_time": "11:08",
-              "scene": "Title card."
+              "scene": "Title card.",
+              "artist_image": "https://i.scdn.co/image/9e96d69df3601013cbbcc5b68b6d9e73df7155b8",
+              "spotify_track_url": "https://open.spotify.com/embed/track/3cErSJj1ntbUHxfVNeGdci"
             },
             {
               "track": 2,
@@ -910,7 +1092,9 @@
               "artist": "Julius Fucik",
               "dvd_time": "13:53",
               "vlc_time": "13:53",
-              "scene": "Plays when all the competitors entering the judging station."
+              "scene": "Plays when all the competitors entering the judging station.",
+              "artist_image": "https://i.scdn.co/image/77c0f0663a9c87effbc7719063921f5686e6ff70",
+              "spotify_track_url": "https://open.spotify.com/embed/track/4LKVcHzpYkOBlQDvq3U9j4"
             },
             {
               "track": 3,
@@ -918,7 +1102,9 @@
               "artist": "John Philip Sousa",
               "dvd_time": "18:23",
               "vlc_time": "18:26",
-              "scene": "Plays when Ren, Stimpy, and George Liquor enter the stadium."
+              "scene": "Plays when Ren, Stimpy, and George Liquor enter the stadium.",
+              "artist_image": "https://i.scdn.co/image/9ac9f4998dff3e10d44b64fef5aa4a75841576e1",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0ipIyLG8vbqqxr0ZOL8oUe"
             },
             {
               "track": 4,
@@ -926,7 +1112,9 @@
               "artist": "Daniel Auber",
               "dvd_time": "20:15",
               "vlc_time": "20:10",
-              "scene": "Plays when Stimpy is disqualified."
+              "scene": "Plays when Stimpy is disqualified.",
+              "artist_image": "https://i.scdn.co/image/e90a608dd891a720aa7cebe746b5c5fe4f39459f",
+              "spotify_track_url": "https://open.spotify.com/embed/track/6l5WJSFdqUrOiHhXn1DkYv"
             }
           ]
         },
@@ -949,7 +1137,9 @@
               "artist": "Richard Wagner",
               "dvd_time": "11:47",
               "vlc_time": "11:48",
-              "scene": "Title card."
+              "scene": "Title card.",
+              "artist_image": "https://i.scdn.co/image/222afb5b9ea4ec7da4531ef607113a1d100e3462",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0DINxyhCPHDlTiAnyr0lJr"
             },
             {
               "track": 2,
@@ -958,7 +1148,9 @@
               "artist": "Charles Gounod",
               "dvd_time": "13:56",
               "vlc_time": "13:46",
-              "scene": "Plays when PTM shoots down the plane."
+              "scene": "Plays when PTM shoots down the plane.",
+              "artist_image": "https://i.scdn.co/image/640328231ab24f1ce0e19f9c873bb1fdd09239e4",
+              "spotify_track_url": "https://open.spotify.com/embed/track/7G5LEWBMaJUykVelEr4MJ8"
             },
             {
               "track": 3,
@@ -967,7 +1159,9 @@
               "artist": "Pyotr Ilyich Tchaikovsky",
               "dvd_time": "14:30",
               "vlc_time": "14:27",
-              "scene": "Plays when PTM picks up the kitten."
+              "scene": "Plays when PTM picks up the kitten.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/6kQsS6IALerD0Wa8PJloPf"
             },
             {
               "track": 4,
@@ -976,7 +1170,9 @@
               "artist": "Pyotr Ilyich Tchaikovsky",
               "dvd_time": "16:03",
               "vlc_time": "16:06",
-              "scene": "Plays when he says \"Leave everything to me!\" before the scene with The Pope."
+              "scene": "Plays when he says \"Leave everything to me!\" before the scene with The Pope.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/6kQsS6IALerD0Wa8PJloPf"
             },
             {
               "track": 5,
@@ -985,7 +1181,9 @@
               "artist": "Gioachino Rossini",
               "dvd_time": "16:48",
               "vlc_time": "16:50",
-              "scene": "Plays when PTM takes off after rescuing the Pope."
+              "scene": "Plays when PTM takes off after rescuing the Pope.",
+              "artist_image": "https://i.scdn.co/image/bcf75de34e685705401c95b0a0f00fd526d1a791",
+              "spotify_track_url": "https://open.spotify.com/embed/track/3Wwba621okL6wwGn6KMzre"
             },
             {
               "track": 6,
@@ -993,7 +1191,9 @@
               "artist": "Claude Debussy",
               "dvd_time": "18:44",
               "vlc_time": "18:50",
-              "scene": "Plays right before \"Magical Effect (e)\"."
+              "scene": "Plays right before \"Magical Effect (e)\".",
+              "artist_image": "https://i.scdn.co/image/d9bf00a7a314028df902da1d026a9844a3365d61",
+              "spotify_track_url": "https://open.spotify.com/embed/track/4LNBSojYv0EruFsIO3bI1D"
             },
             {
               "track": 7,
@@ -1002,7 +1202,9 @@
               "artist": "Leo Delibes",
               "dvd_time": "19:23",
               "vlc_time": "19:12",
-              "scene": "Plays when Ren and Stimpy eat Powdered Toast, satisfied."
+              "scene": "Plays when Ren and Stimpy eat Powdered Toast, satisfied.",
+              "artist_image": "https://i.scdn.co/image/7f782b0b84d7e169ec168cc451ce05bef69e7a4d",
+              "spotify_track_url": "https://open.spotify.com/embed/track/45sBB0vVfJH90TeIMS29mI"
             }
           ]
         },
@@ -1017,7 +1219,9 @@
               "artist": "Franz Joseph Haydn",
               "dvd_time": "3:42",
               "vlc_time": "03:44",
-              "scene": "Plays when Kowalski is sitting in Ren's favourite chair."
+              "scene": "Plays when Kowalski is sitting in Ren's favourite chair.",
+              "artist_image": "https://i.scdn.co/image/58b78af9eed8c3e1766642bf8f74e021f360512c",
+              "spotify_track_url": "https://open.spotify.com/embed/track/3wAowg2HOHQkO0L1rv5xOk"
             }
           ]
         },
@@ -1040,7 +1244,9 @@
               "artist": "Pyotr Ilyich Tchaikovsky",
               "dvd_time": "6:32",
               "vlc_time": "06:39",
-              "scene": "Plays when Ren reads the second fan letter."
+              "scene": "Plays when Ren reads the second fan letter.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/3C4JNyv2NAT72xm0cDKl0v"
             },
             {
               "track": 2,
@@ -1048,7 +1254,9 @@
               "artist": "Edward Elgar",
               "dvd_time": "10:25",
               "vlc_time": "10:27",
-              "scene": "Plays when Ren vows to do better as president."
+              "scene": "Plays when Ren vows to do better as president.",
+              "artist_image": "https://i.scdn.co/image/a0bbac937bcd54681292cc2acf43a1524d1643c9",
+              "spotify_track_url": "https://open.spotify.com/embed/track/3DsF1AWTgtwsS1mliUTRr1"
             },
             {
               "track": 3,
@@ -1057,7 +1265,9 @@
               "artist": "Camille Saint-Saens",
               "dvd_time": "18:45",
               "vlc_time": "18:45",
-              "scene": "Plays when there's a letter for Ren."
+              "scene": "Plays when there's a letter for Ren.",
+              "artist_image": "https://i.scdn.co/image/8f678a5306adb0c8d446a20b1bf524ea21220e8a",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0jOnZhF75V68VsBObWx2XO"
             }
           ]
         },
@@ -1071,7 +1281,9 @@
               "artist": "Pyotr Ilyich Tchaikovsky",
               "dvd_time": "02:58",
               "vlc_time": "03:07",
-              "scene": "Plays when Ren and Stimpy are at the lake."
+              "scene": "Plays when Ren and Stimpy are at the lake.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/11WQasJcGWgh3mvR1UiBcm"
             },
             {
               "track": 2,
@@ -1079,7 +1291,9 @@
               "artist": "Edvard Grieg",
               "dvd_time": "04:50",
               "vlc_time": "04:57",
-              "scene": "Plays when the bearded man goes skinnydipping with Ren and Stimpy."
+              "scene": "Plays when the bearded man goes skinnydipping with Ren and Stimpy.",
+              "artist_image": "https://i.scdn.co/image/9dc1d187b3c797c0f36258faacbc1e723e7c2858",
+              "spotify_track_url": "https://open.spotify.com/embed/track/5zhuWncJsBKrQ1HhmAKNAg"
             },
             {
               "track": 3,
@@ -1087,7 +1301,9 @@
               "artist": "Felix Mendelssohn",
               "dvd_time": "07:37",
               "vlc_time": "07:45",
-              "scene": "Plays when a charred Ren punches Stimpy."
+              "scene": "Plays when a charred Ren punches Stimpy.",
+              "artist_image": "https://i.scdn.co/image/7f30d9306a73a4233125a3e6ef7680f18b7f6b15",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0Mx9Vg9DLMY27NY59c1UEH"
             },
             {
               "track": 4,
@@ -1095,7 +1311,9 @@
               "artist": "Nikolai Rimsky-Korsakov",
               "dvd_time": "08:45",
               "vlc_time": "08:45",
-              "scene": "Plays when a mosquito sucks Ren's blood."
+              "scene": "Plays when a mosquito sucks Ren's blood.",
+              "artist_image": "https://i.scdn.co/image/3c0912839a8d12bff2726dfe30ee1b851abaa2d4",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0nF5aQoLs2YtbWwClXvumL"
             },
             {
               "track": 5,
@@ -1103,7 +1321,9 @@
               "artist": "Edvard Grieg",
               "dvd_time": "09:11",
               "vlc_time": "09:11",
-              "scene": "Plays the next morning, after Ren has been bitten by tons of mosquitos."
+              "scene": "Plays the next morning, after Ren has been bitten by tons of mosquitos.",
+              "artist_image": "https://i.scdn.co/image/9dc1d187b3c797c0f36258faacbc1e723e7c2858",
+              "spotify_track_url": "https://open.spotify.com/embed/track/2mAmBwtISNYeBrmzjK2SbZ"
             },
             {
               "track": 6,
@@ -1112,7 +1332,9 @@
               "artist": "Leo Delibes",
               "dvd_time": "09:56",
               "vlc_time": "09:56",
-              "scene": "Plays when Ren is about to drink from the lake."
+              "scene": "Plays when Ren is about to drink from the lake.",
+              "artist_image": "https://i.scdn.co/image/7f782b0b84d7e169ec168cc451ce05bef69e7a4d",
+              "spotify_track_url": "https://open.spotify.com/embed/track/45sBB0vVfJH90TeIMS29mI"
             },
             {
               "track": 7,
@@ -1120,7 +1342,9 @@
               "artist": "Modest Mussorgsky",
               "dvd_time": "10:46",
               "vlc_time": "10:46",
-              "scene": "Plays when Ren turns into a beaver."
+              "scene": "Plays when Ren turns into a beaver.",
+              "artist_image": "https://i.scdn.co/image/e6c99bfcb3d04655f541268cae3efdf7cf35de7e",
+              "spotify_track_url": "https://open.spotify.com/embed/track/1xifHmn10bGRviND5mYEPb"
             },
             {
               "track": 8,
@@ -1128,7 +1352,9 @@
               "artist": "Edvard Grieg",
               "dvd_time": "11:16",
               "vlc_time": "11:16",
-              "scene": "Plays at the ending of the episode."
+              "scene": "Plays at the ending of the episode.",
+              "artist_image": "https://i.scdn.co/image/9dc1d187b3c797c0f36258faacbc1e723e7c2858",
+              "spotify_track_url": "https://open.spotify.com/embed/track/5zhuWncJsBKrQ1HhmAKNAg"
             }
           ]
         },
@@ -1142,7 +1368,9 @@
               "artist": "Leo Delibes",
               "dvd_time": "12:20",
               "vlc_time": "12:19",
-              "scene": "Plays when Ren is angry about all the hairballs in the house."
+              "scene": "Plays when Ren is angry about all the hairballs in the house.",
+              "artist_image": "https://i.scdn.co/image/7f782b0b84d7e169ec168cc451ce05bef69e7a4d",
+              "spotify_track_url": "https://open.spotify.com/embed/track/4mJqWyqwexw8oY1wwmUYFh"
             },
             {
               "track": 2,
@@ -1150,7 +1378,9 @@
               "artist": "Camille Saint-Saens",
               "dvd_time": "13:21",
               "vlc_time": "13:14",
-              "scene": "Plays when Ren says, \"They're vile, they're stinky, but I love them!\"."
+              "scene": "Plays when Ren says, \"They're vile, they're stinky, but I love them!\".",
+              "artist_image": "https://i.scdn.co/image/8f678a5306adb0c8d446a20b1bf524ea21220e8a",
+              "spotify_track_url": "https://open.spotify.com/embed/track/1IM8x4lxZVOOP9gpQD6c5s"
             },
             {
               "track": 3,
@@ -1158,7 +1388,9 @@
               "artist": "Pyotr Ilyich Tchaikovsky",
               "dvd_time": "13:34",
               "vlc_time": "13:24",
-              "scene": "Plays when Ren praises Stimpy for his hairballs."
+              "scene": "Plays when Ren praises Stimpy for his hairballs.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/11WQasJcGWgh3mvR1UiBcm"
             },
             {
               "track": 4,
@@ -1166,7 +1398,9 @@
               "artist": "Camille Saint-Saens",
               "dvd_time": "13:48",
               "vlc_time": "13:37",
-              "scene": "Plays when Stimpy throws up on Ren."
+              "scene": "Plays when Stimpy throws up on Ren.",
+              "artist_image": "https://i.scdn.co/image/8f678a5306adb0c8d446a20b1bf524ea21220e8a",
+              "spotify_track_url": "https://open.spotify.com/embed/track/1IM8x4lxZVOOP9gpQD6c5s"
             },
             {
               "track": 5,
@@ -1174,7 +1408,9 @@
               "artist": "Aram Khachaturian",
               "dvd_time": "15:28",
               "vlc_time": "15:21",
-              "scene": "Plays during the third hairball output montage."
+              "scene": "Plays during the third hairball output montage.",
+              "artist_image": "https://i.scdn.co/image/35190a319ac6ff0fb9d27d7609d1b0fe9bf4478a",
+              "spotify_track_url": "https://open.spotify.com/embed/track/33hyuqnSoGOJUtEnqS0qm8"
             },
             {
               "track": 6,
@@ -1182,7 +1418,9 @@
               "artist": "Gioachino Rossini",
               "dvd_time": "17:05",
               "vlc_time": "17:02",
-              "scene": "Plays when Stimpy licks Bubba's arm."
+              "scene": "Plays when Stimpy licks Bubba's arm.",
+              "artist_image": "https://i.scdn.co/image/bcf75de34e685705401c95b0a0f00fd526d1a791",
+              "spotify_track_url": "https://open.spotify.com/embed/track/5p4BRlcUzvRpApjjEFAtUq"
             },
             {
               "track": 7,
@@ -1190,7 +1428,9 @@
               "artist": "Luigi Boccherini",
               "dvd_time": "17:33",
               "vlc_time": "17:32",
-              "scene": "Plays when Stimpy licks Bubba's hair off his back."
+              "scene": "Plays when Stimpy licks Bubba's hair off his back.",
+              "artist_image": "https://i.scdn.co/image/bd30be0f8245083c38b651a7ea89ef98a18f2fd5",
+              "spotify_track_url": "https://open.spotify.com/embed/track/6jemSH85Bsq3OqTE1lLqrw"
             },
             {
               "track": 8,
@@ -1199,7 +1439,9 @@
               "artist": "Camille Saint-Saens",
               "dvd_time": "20:10",
               "vlc_time": "20:15",
-              "scene": "Plays when Bubba is walking around inside Stimpy."
+              "scene": "Plays when Bubba is walking around inside Stimpy.",
+              "artist_image": "https://i.scdn.co/image/8f678a5306adb0c8d446a20b1bf524ea21220e8a",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0jOnZhF75V68VsBObWx2XO"
             },
             {
               "track": 9,
@@ -1208,7 +1450,9 @@
               "artist": "Pyotr Ilyich Tchaikovsky",
               "dvd_time": "20:53",
               "vlc_time": "20:58",
-              "scene": "Plays when Stimpy is about to \"die\"."
+              "scene": "Plays when Stimpy is about to \"die\".",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/6RPHuiQjLKtTnh2BOH9v2E"
             }
           ]
         },
@@ -1222,7 +1466,9 @@
               "artist": "Igor Tuhmanov",
               "dvd_time": "02:38",
               "vlc_time": "02:42",
-              "scene": "Opening of the episode."
+              "scene": "Opening of the episode.",
+              "artist_image": "no_image_found",
+              "spotify_track_url": "https://open.spotify.com/embed/track/1pNNBBzz7YGsBfuWsDFLTD"
             },
             {
               "track": 2,
@@ -1230,7 +1476,9 @@
               "artist": "Antonin Dvorak",
               "dvd_time": "03:43",
               "vlc_time": "03:47",
-              "scene": "Plays when Ren and Stimpy kiss the wives goodbye."
+              "scene": "Plays when Ren and Stimpy kiss the wives goodbye.",
+              "artist_image": "https://i.scdn.co/image/9ef8aaf1ff4a3d376f3584c6a671102350d59e70",
+              "spotify_track_url": "https://open.spotify.com/embed/track/76oR5f6zl5jpJ6zKBNXL3g"
             },
             {
               "track": 3,
@@ -1238,7 +1486,9 @@
               "artist": "Johann Strauss II",
               "dvd_time": "06:06",
               "vlc_time": "06:15",
-              "scene": "Plays when Ren demonstrates the eye bulging gag."
+              "scene": "Plays when Ren demonstrates the eye bulging gag.",
+              "artist_image": "https://i.scdn.co/image/e25d4dcb20c3ab9fd0e46291d8b09a1224eb379f",
+              "spotify_track_url": "https://open.spotify.com/embed/track/6lRKuqdyetVsFakhvE4RKf"
             },
             {
               "track": 4,
@@ -1246,7 +1496,9 @@
               "artist": "Johannes Brahms",
               "dvd_time": "6:49",
               "vlc_time": "07:03",
-              "scene": "Plays when when Ren and Stimpy (and Anthony) are in bed."
+              "scene": "Plays when when Ren and Stimpy (and Anthony) are in bed.",
+              "artist_image": "https://i.scdn.co/image/841b4adc1a4e66906d99229aaaec26306d6aed92",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0cmcMGKSmMoxbp1K94SZzF"
             },
             {
               "track": 5,
@@ -1255,7 +1507,9 @@
               "artist": "Gioachino Rossini",
               "dvd_time": "7:13",
               "vlc_time": "07:21",
-              "scene": "Plays at morning."
+              "scene": "Plays at morning.",
+              "artist_image": "https://i.scdn.co/image/bcf75de34e685705401c95b0a0f00fd526d1a791",
+              "spotify_track_url": "https://open.spotify.com/embed/track/3Wwba621okL6wwGn6KMzre"
             },
             {
               "track": 6,
@@ -1264,7 +1518,9 @@
               "artist": "Hector Berlioz",
               "dvd_time": "9:09",
               "vlc_time": "09:05",
-              "scene": "Plays when Anthony's dad says, \"Excuse me. Don't you even put that picture in my head!\""
+              "scene": "Plays when Anthony's dad says, \"Excuse me. Don't you even put that picture in my head!\"",
+              "artist_image": "https://i.scdn.co/image/5643c5b349807254ba38e03c86f1daa950008692",
+              "spotify_track_url": "https://open.spotify.com/embed/track/1SHixA41Vy0TTlJJSX9Gbo"
             },
             {
               "track": 7,
@@ -1273,7 +1529,9 @@
               "artist": "Camille Saint-Saens",
               "dvd_time": "14:49",
               "vlc_time": "14:54",
-              "scene": "Plays when Anthony's dad lays a hurt Anthony into bed."
+              "scene": "Plays when Anthony's dad lays a hurt Anthony into bed.",
+              "artist_image": "https://i.scdn.co/image/8f678a5306adb0c8d446a20b1bf524ea21220e8a",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0jOnZhF75V68VsBObWx2XO"
             },
             {
               "track": 8,
@@ -1282,7 +1540,9 @@
               "artist": "Jacques Offenbach",
               "dvd_time": "15:22",
               "vlc_time": "15:24",
-              "scene": "Plays when Anthony sits up in bed and shrugs his shoulders."
+              "scene": "Plays when Anthony sits up in bed and shrugs his shoulders.",
+              "artist_image": "https://i.scdn.co/image/585f4a7cae545e6bbbec8204519a030904a83085",
+              "spotify_track_url": "https://open.spotify.com/embed/track/1ntwYN2nT0Dl3c8lne15ii"
             }
           ]
         },
@@ -1297,7 +1557,9 @@
               "artist": "Camille Saint-Saens",
               "dvd_time": "12:42",
               "vlc_time": "11:26",
-              "scene": "Plays after the yak comes to his senses."
+              "scene": "Plays after the yak comes to his senses.",
+              "artist_image": "https://i.scdn.co/image/8f678a5306adb0c8d446a20b1bf524ea21220e8a",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0jOnZhF75V68VsBObWx2XO"
             },
             {
               "track": 2,
@@ -1305,7 +1567,9 @@
               "artist": "Gioachino Rossini",
               "dvd_time": "14:24",
               "vlc_time": "13:29",
-              "scene": "Plays at the start of the scene where everyone searches for dirt."
+              "scene": "Plays at the start of the scene where everyone searches for dirt.",
+              "artist_image": "https://i.scdn.co/image/bcf75de34e685705401c95b0a0f00fd526d1a791",
+              "spotify_track_url": "https://open.spotify.com/embed/track/5p4BRlcUzvRpApjjEFAtUq"
             },
             {
               "track": 3,
@@ -1313,7 +1577,9 @@
               "artist": "Sergei Prokofiev",
               "dvd_time": "15:16",
               "vlc_time": "14:30",
-              "scene": "Plays when everyone's walking through the desert, right before they strike dirt. (\"Grandfather\" theme)"
+              "scene": "Plays when everyone's walking through the desert, right before they strike dirt. (\"Grandfather\" theme)",
+              "artist_image": "https://i.scdn.co/image/18af66959eb66c7e5c63250fd47520aebbba16a3",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0wnXJy6kkLgLpcbFGnAXBI"
             },
             {
               "track": 4,
@@ -1321,7 +1587,9 @@
               "artist": "Edvard Grieg",
               "dvd_time": "17:16",
               "vlc_time": "16:53",
-              "scene": "Plays when everyone wakes up the next morning, stuffed."
+              "scene": "Plays when everyone wakes up the next morning, stuffed.",
+              "artist_image": "https://i.scdn.co/image/9dc1d187b3c797c0f36258faacbc1e723e7c2858",
+              "spotify_track_url": "https://open.spotify.com/embed/track/2mAmBwtISNYeBrmzjK2SbZ"
             }
           ]
         },
@@ -1335,7 +1603,9 @@
               "artist": "George Frideric Handel",
               "dvd_time": "00:45",
               "vlc_time": "00:57",
-              "scene": "Title card."
+              "scene": "Title card.",
+              "artist_image": "https://i.scdn.co/image/28e3224e9ba32cc880794fc6192b1836b1bcb09a",
+              "spotify_track_url": "https://open.spotify.com/embed/track/5xR3eB6q8B3asTIJ0REzIy"
             },
             {
               "track": 2,
@@ -1344,7 +1614,9 @@
               "artist": "Ludwig Van Beethoven",
               "dvd_time": "01:06",
               "vlc_time": "01:16",
-              "scene": "Plays as the opening of the episode."
+              "scene": "Plays as the opening of the episode.",
+              "artist_image": "https://i.scdn.co/image/348252c0e6722a55a05484b052ef010e71ca30ce",
+              "spotify_track_url": "https://open.spotify.com/embed/track/2fWTvHgM9ZuHd8xpQrdAym"
             },
             {
               "track": 3,
@@ -1352,7 +1624,9 @@
               "artist": "Amilcare Ponchielli",
               "dvd_time": "02:00",
               "vlc_time": "02:08",
-              "scene": "Plays when Stimpy says Ren will never believe what happened."
+              "scene": "Plays when Stimpy says Ren will never believe what happened.",
+              "artist_image": "https://i.scdn.co/image/cdb475dff7504a89026a2b6e257733a60f822b8b",
+              "spotify_track_url": "https://open.spotify.com/embed/track/6mmbWSbU5FElQOocyktyUZ"
             },
             {
               "track": 4,
@@ -1360,16 +1634,20 @@
               "artist": "Ludwig Van Beethoven",
               "dvd_time": "03:16",
               "vlc_time": "03:20",
-              "scene": "Plays when Stimpy tries to fart."
+              "scene": "Plays when Stimpy tries to fart.",
+              "artist_image": "https://i.scdn.co/image/348252c0e6722a55a05484b052ef010e71ca30ce",
+              "spotify_track_url": "https://open.spotify.com/embed/track/3tpoPX9YdjrBQCgWFg2Z4L"
             },
             {
               "track": 5,
-              "title": "Symphony No. 6 (Pastorale) (Pastorale)",
+              "title": "Symphony No. 6 (Pastorale)",
               "movement": "(4th Movement)",
               "artist": "Ludwig Van Beethoven",
               "dvd_time": "04:21",
               "vlc_time": "04:28",
-              "scene": "Plays during montage where Stimpy looks for Stinky."
+              "scene": "Plays during montage where Stimpy looks for Stinky.",
+              "artist_image": "https://i.scdn.co/image/348252c0e6722a55a05484b052ef010e71ca30ce",
+              "spotify_track_url": "https://open.spotify.com/embed/track/2fWTvHgM9ZuHd8xpQrdAym"
             },
             {
               "track": 6,
@@ -1377,7 +1655,9 @@
               "artist": "Claude Debussy",
               "dvd_time": "05:42",
               "vlc_time": "05:43",
-              "scene": "Plays when Stimpy is staring at the TV, sad."
+              "scene": "Plays when Stimpy is staring at the TV, sad.",
+              "artist_image": "https://i.scdn.co/image/d9bf00a7a314028df902da1d026a9844a3365d61",
+              "spotify_track_url": "https://open.spotify.com/embed/track/5u5aVJKjSMJr4zesMPz7bL"
             },
             {
               "track": 7,
@@ -1385,7 +1665,9 @@
               "artist": "Alexander Borodin",
               "dvd_time": "08:57",
               "vlc_time": "08:36",
-              "scene": "Plays when Stimpy is wide awake in bed."
+              "scene": "Plays when Stimpy is wide awake in bed.",
+              "artist_image": "https://i.scdn.co/image/c2006a4b631a7a40acd7dd7652dbf02d45839f60",
+              "spotify_track_url": "https://open.spotify.com/embed/track/5HnayKoSLuVW9DL3B2KNRz"
             },
             {
               "track": 8,
@@ -1393,7 +1675,9 @@
               "artist": "Wolfgang Amadeus Mozart",
               "dvd_time": "09:17",
               "vlc_time": "08:54",
-              "scene": "Plays when Stinky looks through the window at Stimpy."
+              "scene": "Plays when Stinky looks through the window at Stimpy.",
+              "artist_image": "https://i.scdn.co/image/9203daa762a94ec40166acadb2354affdcff3fa3",
+              "spotify_track_url": "https://open.spotify.com/embed/track/1RdAXojxKULTh1OdV47sDQ"
             },
             {
               "track": 9,
@@ -1402,7 +1686,9 @@
               "artist": "Pyotr Ilyich Tchaikovsky",
               "dvd_time": "11:49",
               "vlc_time": "11:39",
-              "scene": "Plays when Ren prays at the house after Stimpy leaves for the city."
+              "scene": "Plays when Ren prays at the house after Stimpy leaves for the city.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/6RPHuiQjLKtTnh2BOH9v2E"
             },
             {
               "track": 10,
@@ -1411,7 +1697,9 @@
               "artist": "Ludwig Van Beethoven",
               "dvd_time": "12:24",
               "vlc_time": "12:26",
-              "scene": "Plays when Stimpy searches for Stinky in the city."
+              "scene": "Plays when Stimpy searches for Stinky in the city.",
+              "artist_image": "https://i.scdn.co/image/348252c0e6722a55a05484b052ef010e71ca30ce",
+              "spotify_track_url": "https://open.spotify.com/embed/track/6iUXuBdBI1whC0md4cOBzu"
             },
             {
               "track": 11,
@@ -1420,7 +1708,9 @@
               "artist": "Alexander Borodin",
               "dvd_time": "14:55",
               "vlc_time": "15:12",
-              "scene": "Plays when Stinky sits on Stimpy's butt."
+              "scene": "Plays when Stinky sits on Stimpy's butt.",
+              "artist_image": "https://i.scdn.co/image/c2006a4b631a7a40acd7dd7652dbf02d45839f60",
+              "spotify_track_url": "https://open.spotify.com/embed/track/1KeJxSvW6pLU1ieRfQOMca"
             },
             {
               "track": 12,
@@ -1428,7 +1718,9 @@
               "artist": "Pyotr Ilyich Tchaikovsky",
               "dvd_time": "16:54",
               "vlc_time": "16:58",
-              "scene": "Plays when Stimpy returns home."
+              "scene": "Plays when Stimpy returns home.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/0MN3erUzrHFyq9dS3lzpoX"
             },
             {
               "track": 13,
@@ -1437,14 +1729,19 @@
               "artist": "Pyotr Ilyich Tchaikovsky",
               "dvd_time": "19:35",
               "vlc_time": "19:31",
-              "scene": "Plays when Stimpy hugs Stinky."
+              "scene": "Plays when Stimpy hugs Stinky.",
+              "artist_image": "https://i.scdn.co/image/98e3a081097659f0d7554b232977019750972902",
+              "spotify_track_url": "https://open.spotify.com/embed/track/6RPHuiQjLKtTnh2BOH9v2E"
             }
           ]
         }
       ]
     }
   ],
-  "thumbnail_source": "The Ren & Stimpy Show: The First and Second Seasons - UNLEASHED (DVD)",
+  "thumbnail_source": {
+    "title": "The Ren & Stimpy Show: The First and Second Seasons - UNLEASHED (DVD)",
+    "url": "https://films.discogs.com/release/169333-the-ren-stimpy-show-unleashed-the-first-and-second-seasons"
+  },
   "catalogue_sources": [
     {
       "title": "Toonzone - Music of Ren and Stimpy (via archive.org)",

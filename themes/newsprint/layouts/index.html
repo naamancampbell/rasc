@@ -1,8 +1,8 @@
-{{- $paginator := .Paginate (where .Data.Pages "Type" "posts") -}}
+{{- $paginator := .Paginate (where .Site.RegularPages "Type" "posts") -}}
 {{- partial "header" . -}}
 
 <section class="content list">
-	{{- range $index, $element := $paginator.Pages -}}
+	{{- range $index, $element := $paginator.Pages.ByDate -}}
 	<article class="thumb">
 		<div class="imgthumb">
 		{{- if .Params.thumbnail -}}
@@ -11,7 +11,7 @@
 		</div>
 		<div class="prevtext">
 		<h1><a href="{{ .RelPermalink }}">{{ .Title | safeHTML }}</a></h1>
-		{{- partial "datetime" .Date -}}
+		{{- dateFormat "Jan 2, 2006" .Params.releasedate -}}
 		{{- if .Params.excerpt -}}
 		<p>{{ .Params.excerpt }}</p>
 		{{- else -}}

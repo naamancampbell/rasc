@@ -4,13 +4,17 @@
 <section class="content list">
     {{ range .Site.Data.rasc.seasons }}
         {{ if (eq (int .season) $.Page.Params.season_num) }}
-            {{ range .episodes }}
+            {{ range .episodes}}
                 {{ $scratch.Set "season" $.Page.Params.season_num }}
                 {{ $scratch.Set "episode" (int .episode) }}
                 {{ $scratch.Set "episode_title" .episode_title }}
                 {{ range .tracks }}
                 {{ $scratch.Set "episode_id" ( printf "s%02de%02dt%02d" ($scratch.Get "season") ($scratch.Get "episode") (int .track) ) }}
                 <article class="thumb">
+                  {{ if .no_music }}
+                    <p style="direction: ltr;">{{ printf "s%02de%02d" ($scratch.Get "season") ($scratch.Get "episode") | upper }} {{ $scratch.Get "episode_title" }}<br />
+                    {{ .no_music }}</p>
+                  {{ else }}
                     <div class="imgthumb">
                     <img src="/{{ $scratch.Get "episode_id" }}.png" alt="{{ .scene }}" width="150" />                    
                     <p style="direction: ltr;">{{ $scratch.Get "episode_id" | upper }} {{ $scratch.Get "episode_title" }}<br />
@@ -20,7 +24,8 @@
                     {{ if ne .artist_image "no_image_found" }}<img src="{{ .artist_image }}" width="80" />{{ end }}{{ .artist }}</h1><br />
                     <h1><a href="#">{{ .title }}</a>
                     <iframe src="{{ .spotify_track_url }}" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-                    </div>                    
+                    </div>
+                  {{ end }}                    
                 </article>
                 {{ end }}
             {{ end }}
