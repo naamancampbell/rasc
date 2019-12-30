@@ -21,13 +21,13 @@
 		<header>
 			{{- if .PrevPage -}}
 			<a class="prev" href="{{ .PrevPage.Permalink }}">Prev Season</a>
-			{{- else -}}
+			{{- else if not .IsHome -}}
 			<span class="prev disable">Prev Season</span>
 			{{- end -}}
 			<h1><a href="/" class="site-title">{{ .Site.Title }}</a></h1>
 			{{- if .NextPage -}}
 			<a class="next" href="{{ .NextPage.Permalink }}">Next Season</a>
-			{{- else -}}
+			{{- else if not .IsHome -}}
 			<span class="next disable">Next Season</span>
 			{{- end -}}			
 			<h2>{{ .Site.Params.created_with | safeHTML }}</h2>

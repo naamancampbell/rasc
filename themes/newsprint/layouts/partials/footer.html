@@ -2,15 +2,18 @@
 	<nav>
 		{{- if .PrevPage -}}
 		<a class="prev" href="{{ .PrevPage.Permalink }}">Prev Season</a>
-		{{- else -}}
+		{{- else if not .IsHome -}}
 		<span class="prev disable">Prev Season</span>
 		{{- end -}}
+		{{- if not .IsHome -}}
 		&nbsp;|&nbsp;
+		{{- end -}}
 		{{- if .NextPage -}}
 		<a class="next" href="{{ .NextPage.Permalink }}">Next Season</a>
-		{{- else -}}
+		{{- else if not .IsHome -}}
 		<span class="next disable">Next Season</span>
 		{{- end -}}
+		<hr />
 	</nav>
 	Scene thumbnails source: <br />
 	<a href="{{ .Site.Data.rasc.thumbnail_source.url }}" target="_blank">
@@ -22,8 +25,9 @@
 	{{ end }}
 	<br />
 	<a href="{{ .Site.Data.rasc.spotify_playlist }}" target="_blank">
+		<img src="/spcode.jpeg" alt="Spotify playlist code" width="120px" /><br />		
 		Spotify playlist
-	</a><br />	
+	</a><br />
 	<br />Artist images and music players source: <a href="https://spotify.com" target="_blank">Spotify</a><br/><br />
 	All other content:&nbsp;{{- partialCached "license" . }}
 </footer>
