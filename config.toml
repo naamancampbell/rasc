@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "https://rasc.netlify.com/"
+languageCode = "en-au"
 title = "Ren and Stimpy Classical"
 theme = "newsprint"
 paginate = 12
